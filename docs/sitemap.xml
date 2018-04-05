@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://atfirstsight.org/index.html</loc>
-    <lastmod>2018-04-04</lastmod>
+    <lastmod>2018-04-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -119,7 +119,7 @@
   </url>
   <url>
     <loc>http://atfirstsight.org/service.html</loc>
-    <lastmod>2018-04-04</lastmod>
+    <lastmod>2018-04-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -164,7 +164,7 @@
   </url>
   <url>
     <loc>http://atfirstsight.org/outlook.html</loc>
-    <lastmod>2018-04-04</lastmod>
+    <lastmod>2018-04-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -200,7 +200,7 @@
   </url>
   <url>
     <loc>http://atfirstsight.org/insight.html</loc>
-    <lastmod>2018-04-04</lastmod>
+    <lastmod>2018-04-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -245,7 +245,7 @@
   </url>
   <url>
     <loc>http://atfirstsight.org/tuition.html</loc>
-    <lastmod>2018-04-04</lastmod>
+    <lastmod>2018-04-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -287,7 +287,7 @@
   </url>
   <url>
     <loc>http://atfirstsight.org/mission.html</loc>
-    <lastmod>2018-04-04</lastmod>
+    <lastmod>2018-04-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -323,7 +323,7 @@
   </url>
   <url>
     <loc>http://atfirstsight.org/sight-reading.html</loc>
-    <lastmod>2018-04-04</lastmod>
+    <lastmod>2018-04-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -359,7 +359,7 @@
   </url>
   <url>
     <loc>http://atfirstsight.org/musicianship.html</loc>
-    <lastmod>2018-04-04</lastmod>
+    <lastmod>2018-04-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -395,7 +395,7 @@
   </url>
   <url>
     <loc>http://atfirstsight.org/faculty.html</loc>
-    <lastmod>2018-04-04</lastmod>
+    <lastmod>2018-04-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -476,7 +476,7 @@
   </url>
   <url>
     <loc>http://atfirstsight.org/at-first-sight.html</loc>
-    <lastmod>2018-04-04</lastmod>
+    <lastmod>2018-04-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -521,7 +521,7 @@
   </url>
   <url>
     <loc>http://atfirstsight.org/location.html</loc>
-    <lastmod>2018-04-04</lastmod>
+    <lastmod>2018-04-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -563,7 +563,7 @@
   </url>
   <url>
     <loc>http://atfirstsight.org/support-us.html</loc>
-    <lastmod>2018-04-04</lastmod>
+    <lastmod>2018-04-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -617,7 +617,7 @@
   </url>
   <url>
     <loc>http://atfirstsight.org/photos.html</loc>
-    <lastmod>2018-04-04</lastmod>
+    <lastmod>2018-04-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -755,7 +755,7 @@
   </url>
   <url>
     <loc>http://atfirstsight.org/our-story.html</loc>
-    <lastmod>2018-04-04</lastmod>
+    <lastmod>2018-04-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -794,7 +794,7 @@
   </url>
   <url>
     <loc>http://atfirstsight.org/to-apply.html</loc>
-    <lastmod>2018-04-04</lastmod>
+    <lastmod>2018-04-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -826,6 +826,9 @@
     </image:image>
     <image:image>
       <image:loc>http://atfirstsight.org/images/support225.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://atfirstsight.org/images/applysms2.jpg</image:loc>
     </image:image>
   </url>
   <url>
