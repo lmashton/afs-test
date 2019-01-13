@@ -2,56 +2,56 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://atfirstsight.org/index.html</loc>
-    <lastmod>2018-04-05</lastmod>
+    <lastmod>2019-01-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
-      <image:loc>http://atfirstsight.org/images/banner.jpg</image:loc>
+      <image:loc>http://atfirstsight.org/images/slideshow1a.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://atfirstsight.org/images/date1.jpg</image:loc>
+      <image:loc>http://atfirstsight.org/images/slideshow2a.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://atfirstsight.org/images/andinsight1.png</image:loc>
+      <image:loc>http://atfirstsight.org/images/slideshow3a.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://atfirstsight.org/images/slideshow4a.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://atfirstsight.org/images/slideshow5a.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://atfirstsight.org/images/slideshow6a.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://atfirstsight.org/images/slideshow7a.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://atfirstsight.org/images/slideshow8a.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://atfirstsight.org/images/slideshow9a.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://atfirstsight.org/images/atfirstsight1.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://atfirstsight.org/images/imgindex2.jpg</image:loc>
+      <image:loc>http://atfirstsight.org/images/andinsight1.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://atfirstsight.org/images/imgindex3.jpg</image:loc>
+      <image:loc>http://atfirstsight.org/images/index2.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://atfirstsight.org/images/imgindex4.jpg</image:loc>
+      <image:loc>http://atfirstsight.org/images/index3.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://atfirstsight.org/images/slideshow1.jpg</image:loc>
+      <image:loc>http://atfirstsight.org/images/index4.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://atfirstsight.org/images/slideshow2.jpg</image:loc>
+      <image:loc>http://atfirstsight.org/images/banner.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://atfirstsight.org/images/slideshow3.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://atfirstsight.org/images/slideshow4.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://atfirstsight.org/images/slideshow5.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://atfirstsight.org/images/slideshow6.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://atfirstsight.org/images/slideshow7.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://atfirstsight.org/images/slideshow8.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://atfirstsight.org/images/date4.jpg</image:loc>
+      <image:loc>http://atfirstsight.org/images/date1.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://atfirstsight.org/images/slideshow1b.jpg</image:loc>
@@ -78,19 +78,10 @@
       <image:loc>http://atfirstsight.org/images/slideshow8b.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://atfirstsight.org/images/imgindex2261x172.jpg</image:loc>
+      <image:loc>http://atfirstsight.org/images/slideshow9b.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://atfirstsight.org/images/imgindex3261x178.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://atfirstsight.org/images/imgindex4261x177.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://atfirstsight.org/images/hampng.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://atfirstsight.org/images/title1.jpg</image:loc>
+      <image:loc>http://atfirstsight.org/images/date2.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://atfirstsight.org/images/slideshow1c.jpg</image:loc>
@@ -116,10 +107,19 @@
     <image:image>
       <image:loc>http://atfirstsight.org/images/slideshow8c.jpg</image:loc>
     </image:image>
+    <image:image>
+      <image:loc>http://atfirstsight.org/images/slideshow9c.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://atfirstsight.org/images/hampng.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://atfirstsight.org/images/title1.jpg</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>http://atfirstsight.org/service.html</loc>
-    <lastmod>2018-04-05</lastmod>
+    <lastmod>2019-01-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -129,7 +129,7 @@
       <image:loc>http://atfirstsight.org/images/date1.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://atfirstsight.org/images/date4.jpg</image:loc>
+      <image:loc>http://atfirstsight.org/images/date2.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://atfirstsight.org/images/hampng.png</image:loc>
@@ -141,30 +141,21 @@
       <image:loc>http://atfirstsight.org/images/findusonfacebook.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://atfirstsight.org/images/imgservicesms.jpg</image:loc>
+      <image:loc>http://atfirstsight.org/images/service1a.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://atfirstsight.org/images/imgservice34.jpg</image:loc>
+      <image:loc>http://atfirstsight.org/images/service3.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://atfirstsight.org/images/imgservice2.jpg</image:loc>
+      <image:loc>http://atfirstsight.org/images/service2.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://atfirstsight.org/images/imgservice34475x172.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://atfirstsight.org/images/imgservicesms2.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://atfirstsight.org/images/imgservice3.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://atfirstsight.org/images/imgservice4.jpg</image:loc>
+      <image:loc>http://atfirstsight.org/images/service1b.jpg</image:loc>
     </image:image>
   </url>
   <url>
     <loc>http://atfirstsight.org/outlook.html</loc>
-    <lastmod>2018-04-05</lastmod>
+    <lastmod>2019-01-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -174,7 +165,7 @@
       <image:loc>http://atfirstsight.org/images/date1.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://atfirstsight.org/images/date4.jpg</image:loc>
+      <image:loc>http://atfirstsight.org/images/date2.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://atfirstsight.org/images/hampng.png</image:loc>
@@ -186,21 +177,24 @@
       <image:loc>http://atfirstsight.org/images/findusonfacebook.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://atfirstsight.org/images/imglookoutsms.jpg</image:loc>
+      <image:loc>http://atfirstsight.org/images/outlook1a.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://atfirstsight.org/images/imgoutlook2.png</image:loc>
+      <image:loc>http://atfirstsight.org/images/outlook2a.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://atfirstsight.org/images/imgoutlook2263x186.png</image:loc>
+      <image:loc>http://atfirstsight.org/images/outlook2b.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://atfirstsight.org/images/imgoutlooksms2.jpg</image:loc>
+      <image:loc>http://atfirstsight.org/images/findusonfacebook-crop-u115617.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://atfirstsight.org/images/outlook1b.jpg</image:loc>
     </image:image>
   </url>
   <url>
     <loc>http://atfirstsight.org/insight.html</loc>
-    <lastmod>2018-04-05</lastmod>
+    <lastmod>2019-01-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -210,7 +204,7 @@
       <image:loc>http://atfirstsight.org/images/date1.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://atfirstsight.org/images/date4.jpg</image:loc>
+      <image:loc>http://atfirstsight.org/images/date2.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://atfirstsight.org/images/hampng.png</image:loc>
@@ -219,33 +213,33 @@
       <image:loc>http://atfirstsight.org/images/title1.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://atfirstsight.org/images/imginsightsms.jpg</image:loc>
+      <image:loc>http://atfirstsight.org/images/insight1a.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://atfirstsight.org/images/imginsignt2.png</image:loc>
+      <image:loc>http://atfirstsight.org/images/insight5.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://atfirstsight.org/images/imginsight3.jpg</image:loc>
+      <image:loc>http://atfirstsight.org/images/insight2.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://atfirstsight.org/images/imginsight4.jpg</image:loc>
+      <image:loc>http://atfirstsight.org/images/insight3.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://atfirstsight.org/images/insight4.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://atfirstsight.org/images/findusonfacebook.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://atfirstsight.org/images/imginsight5.jpg</image:loc>
+      <image:loc>http://atfirstsight.org/images/insight1b.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://atfirstsight.org/images/imginsightsms2.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://atfirstsight.org/images/imginsight5470x128.jpg</image:loc>
+      <image:loc>http://atfirstsight.org/images/insight5470x128.jpg</image:loc>
     </image:image>
   </url>
   <url>
     <loc>http://atfirstsight.org/tuition.html</loc>
-    <lastmod>2018-04-05</lastmod>
+    <lastmod>2019-01-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -255,7 +249,7 @@
       <image:loc>http://atfirstsight.org/images/date1.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://atfirstsight.org/images/date4.jpg</image:loc>
+      <image:loc>http://atfirstsight.org/images/date2.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://atfirstsight.org/images/hampng.png</image:loc>
@@ -267,27 +261,27 @@
       <image:loc>http://atfirstsight.org/images/findusonfacebook.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://atfirstsight.org/images/imgtuitionsms.jpg</image:loc>
+      <image:loc>http://atfirstsight.org/images/tuirion1a.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://atfirstsight.org/images/imgtuition2.jpg</image:loc>
+      <image:loc>http://atfirstsight.org/images/tuition2.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://atfirstsight.org/images/imgtuition3.jpg</image:loc>
+      <image:loc>http://atfirstsight.org/images/tuition3.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://atfirstsight.org/images/imgtuition4.jpg</image:loc>
+      <image:loc>http://atfirstsight.org/images/tuition4.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://atfirstsight.org/images/imgadobereader.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://atfirstsight.org/images/imgtuitionsms2.jpg</image:loc>
+      <image:loc>http://atfirstsight.org/images/tuirion1b.jpg</image:loc>
     </image:image>
   </url>
   <url>
     <loc>http://atfirstsight.org/mission.html</loc>
-    <lastmod>2018-04-05</lastmod>
+    <lastmod>2019-01-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -297,7 +291,7 @@
       <image:loc>http://atfirstsight.org/images/date1.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://atfirstsight.org/images/date4.jpg</image:loc>
+      <image:loc>http://atfirstsight.org/images/date2.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://atfirstsight.org/images/hampng.png</image:loc>
@@ -309,21 +303,21 @@
       <image:loc>http://atfirstsight.org/images/findusonfacebook.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://atfirstsight.org/images/imgmission2.png</image:loc>
+      <image:loc>http://atfirstsight.org/images/mission1a.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://atfirstsight.org/images/imgmissionsms.jpg</image:loc>
+      <image:loc>http://atfirstsight.org/images/mission2.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://atfirstsight.org/images/imgmission3.png</image:loc>
+      <image:loc>http://atfirstsight.org/images/mission3.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://atfirstsight.org/images/imgmissionsms2.jpg</image:loc>
+      <image:loc>http://atfirstsight.org/images/mission1b.jpg</image:loc>
     </image:image>
   </url>
   <url>
     <loc>http://atfirstsight.org/sight-reading.html</loc>
-    <lastmod>2018-04-05</lastmod>
+    <lastmod>2019-01-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -333,7 +327,7 @@
       <image:loc>http://atfirstsight.org/images/date1.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://atfirstsight.org/images/date4.jpg</image:loc>
+      <image:loc>http://atfirstsight.org/images/date2.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://atfirstsight.org/images/hampng.png</image:loc>
@@ -345,21 +339,24 @@
       <image:loc>http://atfirstsight.org/images/findusonfacebook.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://atfirstsight.org/images/imgsightreadingsms.jpg</image:loc>
+      <image:loc>http://atfirstsight.org/images/sightreading1a.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://atfirstsight.org/images/imgsightreading2.png</image:loc>
+      <image:loc>http://atfirstsight.org/images/sightreading2.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://atfirstsight.org/images/imgsightreading3.jpg</image:loc>
+      <image:loc>http://atfirstsight.org/images/sightreading3.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://atfirstsight.org/images/imgsightreadingsms2.jpg</image:loc>
+      <image:loc>http://atfirstsight.org/images/sightreading1b.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://atfirstsight.org/images/sightreading3470x168.jpg</image:loc>
     </image:image>
   </url>
   <url>
     <loc>http://atfirstsight.org/musicianship.html</loc>
-    <lastmod>2018-04-05</lastmod>
+    <lastmod>2019-01-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -369,7 +366,7 @@
       <image:loc>http://atfirstsight.org/images/date1.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://atfirstsight.org/images/date4.jpg</image:loc>
+      <image:loc>http://atfirstsight.org/images/date2.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://atfirstsight.org/images/hampng.png</image:loc>
@@ -381,21 +378,21 @@
       <image:loc>http://atfirstsight.org/images/findusonfacebook.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://atfirstsight.org/images/imgmusicianship3.jpg</image:loc>
+      <image:loc>http://atfirstsight.org/images/musicianship1a.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://atfirstsight.org/images/imgmusicianshipsms.jpg</image:loc>
+      <image:loc>http://atfirstsight.org/images/musicianship3.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://atfirstsight.org/images/imgmusicianship2.jpg</image:loc>
+      <image:loc>http://atfirstsight.org/images/musicianship2.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://atfirstsight.org/images/imgmusicianshipsms2.jpg</image:loc>
+      <image:loc>http://atfirstsight.org/images/musicianship1b.jpg</image:loc>
     </image:image>
   </url>
   <url>
     <loc>http://atfirstsight.org/faculty.html</loc>
-    <lastmod>2018-04-05</lastmod>
+    <lastmod>2019-01-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -405,7 +402,7 @@
       <image:loc>http://atfirstsight.org/images/date1.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://atfirstsight.org/images/date4.jpg</image:loc>
+      <image:loc>http://atfirstsight.org/images/date2.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://atfirstsight.org/images/hampng.png</image:loc>
@@ -423,13 +420,13 @@
       <image:loc>http://atfirstsight.org/images/imgtim.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://atfirstsight.org/images/imgfaculty2.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://atfirstsight.org/images/imgfaculty1.jpg</image:loc>
+      <image:loc>http://atfirstsight.org/images/faculty1a.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://atfirstsight.org/images/imgellen.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://atfirstsight.org/images/facultlyl2.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://atfirstsight.org/images/imgtami.jpg</image:loc>
@@ -462,13 +459,13 @@
       <image:loc>http://atfirstsight.org/images/imgted.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://atfirstsight.org/images/imgfaculty1b.png</image:loc>
+      <image:loc>http://atfirstsight.org/images/faculty1b.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://atfirstsight.org/images/imglaurie-crop-u1363582.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://atfirstsight.org/images/imgfaculty1c.jpg</image:loc>
+      <image:loc>http://atfirstsight.org/images/facultly1c.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://atfirstsight.org/images/imglaurie-crop-u1363583.png</image:loc>
@@ -476,7 +473,7 @@
   </url>
   <url>
     <loc>http://atfirstsight.org/at-first-sight.html</loc>
-    <lastmod>2018-04-05</lastmod>
+    <lastmod>2019-01-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -486,7 +483,7 @@
       <image:loc>http://atfirstsight.org/images/date1.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://atfirstsight.org/images/date4.jpg</image:loc>
+      <image:loc>http://atfirstsight.org/images/date2.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://atfirstsight.org/images/hampng.png</image:loc>
@@ -498,30 +495,27 @@
       <image:loc>http://atfirstsight.org/images/findusonfacebook.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://atfirstsight.org/images/imgafs2.jpg</image:loc>
+      <image:loc>http://atfirstsight.org/images/atfirstsight1a.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://atfirstsight.org/images/imgafs3.jpg</image:loc>
+      <image:loc>http://atfirstsight.org/images/afs2.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://atfirstsight.org/images/imgafs4220x254.jpg</image:loc>
+      <image:loc>http://atfirstsight.org/images/afs4.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://atfirstsight.org/images/imgafssms.jpg</image:loc>
+      <image:loc>http://atfirstsight.org/images/afs3.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://atfirstsight.org/images/imgafs5.jpg</image:loc>
+      <image:loc>http://atfirstsight.org/images/atfirstsight5.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://atfirstsight.org/images/imgafs4.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://atfirstsight.org/images/imgafssms2.jpg</image:loc>
+      <image:loc>http://atfirstsight.org/images/atfirstsight1b.jpg</image:loc>
     </image:image>
   </url>
   <url>
     <loc>http://atfirstsight.org/location.html</loc>
-    <lastmod>2018-04-05</lastmod>
+    <lastmod>2019-01-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -531,7 +525,7 @@
       <image:loc>http://atfirstsight.org/images/date1.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://atfirstsight.org/images/date4.jpg</image:loc>
+      <image:loc>http://atfirstsight.org/images/date2.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://atfirstsight.org/images/hampng.png</image:loc>
@@ -563,7 +557,7 @@
   </url>
   <url>
     <loc>http://atfirstsight.org/support-us.html</loc>
-    <lastmod>2018-04-05</lastmod>
+    <lastmod>2019-01-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -573,7 +567,7 @@
       <image:loc>http://atfirstsight.org/images/date1.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://atfirstsight.org/images/date4.jpg</image:loc>
+      <image:loc>http://atfirstsight.org/images/date2.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://atfirstsight.org/images/hampng.png</image:loc>
@@ -582,42 +576,27 @@
       <image:loc>http://atfirstsight.org/images/title1.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://atfirstsight.org/images/imgsupport1.jpg</image:loc>
+      <image:loc>http://atfirstsight.org/images/support1.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://atfirstsight.org/images/imgsupport2266x199.jpg</image:loc>
+      <image:loc>http://atfirstsight.org/images/support2.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://atfirstsight.org/images/imgsupport3266x199.jpg</image:loc>
+      <image:loc>http://atfirstsight.org/images/support3.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://atfirstsight.org/images/imgsupport4265x175.png</image:loc>
+      <image:loc>http://atfirstsight.org/images/support4.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://atfirstsight.org/images/imgsupport2271x203.jpg</image:loc>
+      <image:loc>http://atfirstsight.org/images/support1b.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://atfirstsight.org/images/imgsupport3270x203.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://atfirstsight.org/images/imgsupport4271x179.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://atfirstsight.org/images/imgsupport1b.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://atfirstsight.org/images/imgsupport2.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://atfirstsight.org/images/imgsupport3.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://atfirstsight.org/images/imgsupport4.png</image:loc>
+      <image:loc>http://atfirstsight.org/images/support1c.jpg</image:loc>
     </image:image>
   </url>
   <url>
-    <loc>http://atfirstsight.org/photos.html</loc>
-    <lastmod>2018-04-05</lastmod>
+    <loc>http://atfirstsight.org/photos-2018.html</loc>
+    <lastmod>2019-01-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -627,7 +606,7 @@
       <image:loc>http://atfirstsight.org/images/date1.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://atfirstsight.org/images/date4.jpg</image:loc>
+      <image:loc>http://atfirstsight.org/images/date2.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://atfirstsight.org/images/hampng.png</image:loc>
@@ -636,126 +615,90 @@
       <image:loc>http://atfirstsight.org/images/title1.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://atfirstsight.org/images/photoshow1a.jpg</image:loc>
+      <image:loc>http://atfirstsight.org/images/photos1a.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://atfirstsight.org/images/photoshow2a.jpg</image:loc>
+      <image:loc>http://atfirstsight.org/images/photos01.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://atfirstsight.org/images/photoshow3a.jpg</image:loc>
+      <image:loc>http://atfirstsight.org/images/photos02.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://atfirstsight.org/images/photoshow4a.jpg</image:loc>
+      <image:loc>http://atfirstsight.org/images/photos03.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://atfirstsight.org/images/photoshow5a.jpg</image:loc>
+      <image:loc>http://atfirstsight.org/images/photos04.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://atfirstsight.org/images/imgphotos01.png</image:loc>
+      <image:loc>http://atfirstsight.org/images/photos05.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://atfirstsight.org/images/imgphotos02.png</image:loc>
+      <image:loc>http://atfirstsight.org/images/photos06.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://atfirstsight.org/images/imgphotos03.png</image:loc>
+      <image:loc>http://atfirstsight.org/images/photos07.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://atfirstsight.org/images/imgphotos04.png</image:loc>
+      <image:loc>http://atfirstsight.org/images/photos08.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://atfirstsight.org/images/imgphotos05.png</image:loc>
+      <image:loc>http://atfirstsight.org/images/photos09.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://atfirstsight.org/images/imgphotos06.png</image:loc>
+      <image:loc>http://atfirstsight.org/images/photos10.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://atfirstsight.org/images/imgphotos07.png</image:loc>
+      <image:loc>http://atfirstsight.org/images/photos11.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://atfirstsight.org/images/imgphotos08.png</image:loc>
+      <image:loc>http://atfirstsight.org/images/photos12.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://atfirstsight.org/images/imgphotos09.png</image:loc>
+      <image:loc>http://atfirstsight.org/images/photos13.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://atfirstsight.org/images/imgphotos10.png</image:loc>
+      <image:loc>http://atfirstsight.org/images/photos14.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://atfirstsight.org/images/imgphotos11.png</image:loc>
+      <image:loc>http://atfirstsight.org/images/photos15.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://atfirstsight.org/images/imgphotos12.png</image:loc>
+      <image:loc>http://atfirstsight.org/images/photos16.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://atfirstsight.org/images/imgphotos13.png</image:loc>
+      <image:loc>http://atfirstsight.org/images/photos17.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://atfirstsight.org/images/imgphotos14.png</image:loc>
+      <image:loc>http://atfirstsight.org/images/photos18.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://atfirstsight.org/images/imgphotos15.png</image:loc>
+      <image:loc>http://atfirstsight.org/images/photos23.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://atfirstsight.org/images/imgphotos16.png</image:loc>
+      <image:loc>http://atfirstsight.org/images/photos20.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://atfirstsight.org/images/imgphotos17.png</image:loc>
+      <image:loc>http://atfirstsight.org/images/photos21.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://atfirstsight.org/images/imgphotos18.png</image:loc>
+      <image:loc>http://atfirstsight.org/images/photos19.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://atfirstsight.org/images/imgphotos19.png</image:loc>
+      <image:loc>http://atfirstsight.org/images/photos22.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://atfirstsight.org/images/imgphotos20.png</image:loc>
+      <image:loc>http://atfirstsight.org/images/photos24.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://atfirstsight.org/images/imgphotos21.png</image:loc>
+      <image:loc>http://atfirstsight.org/images/photos1b.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://atfirstsight.org/images/imgphotos22.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://atfirstsight.org/images/imgphotos23.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://atfirstsight.org/images/imgphotos24.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://atfirstsight.org/images/photoshow1b.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://atfirstsight.org/images/photoshow2b.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://atfirstsight.org/images/photoshow3b.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://atfirstsight.org/images/photoshow4b.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://atfirstsight.org/images/photoshow5b.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://atfirstsight.org/images/photoshow1c.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://atfirstsight.org/images/photoshow2c.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://atfirstsight.org/images/photoshow3c.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://atfirstsight.org/images/photoshow4c.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://atfirstsight.org/images/photoshow5c.jpg</image:loc>
+      <image:loc>http://atfirstsight.org/images/photos1c.jpg</image:loc>
     </image:image>
   </url>
   <url>
     <loc>http://atfirstsight.org/our-story.html</loc>
-    <lastmod>2018-04-05</lastmod>
+    <lastmod>2019-01-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -765,7 +708,7 @@
       <image:loc>http://atfirstsight.org/images/date1.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://atfirstsight.org/images/date4.jpg</image:loc>
+      <image:loc>http://atfirstsight.org/images/date2.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://atfirstsight.org/images/hampng.png</image:loc>
@@ -777,24 +720,18 @@
       <image:loc>http://atfirstsight.org/images/findusonfacebook.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://atfirstsight.org/images/imgstory1.jpg</image:loc>
+      <image:loc>http://atfirstsight.org/images/story1a.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://atfirstsight.org/images/imgstory3.png</image:loc>
+      <image:loc>http://atfirstsight.org/images/story1b.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://atfirstsight.org/images/imgstory1b.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://atfirstsight.org/images/imgstory3-crop-u122268.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://atfirstsight.org/images/imgstory2.jpg</image:loc>
+      <image:loc>http://atfirstsight.org/images/story1c.jpg</image:loc>
     </image:image>
   </url>
   <url>
     <loc>http://atfirstsight.org/to-apply.html</loc>
-    <lastmod>2018-04-05</lastmod>
+    <lastmod>2019-01-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -804,7 +741,7 @@
       <image:loc>http://atfirstsight.org/images/date1.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://atfirstsight.org/images/date4.jpg</image:loc>
+      <image:loc>http://atfirstsight.org/images/date2.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://atfirstsight.org/images/hampng.png</image:loc>
@@ -813,13 +750,13 @@
       <image:loc>http://atfirstsight.org/images/title1.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://atfirstsight.org/images/applysms.jpg</image:loc>
+      <image:loc>http://atfirstsight.org/images/apply1a.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://atfirstsight.org/images/imgtuition225.png</image:loc>
+      <image:loc>http://atfirstsight.org/images/tuition225.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://atfirstsight.org/images/imgoutlook225.jpg</image:loc>
+      <image:loc>http://atfirstsight.org/images/outlook225.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://atfirstsight.org/images/imglocation225.jpg</image:loc>
@@ -828,7 +765,10 @@
       <image:loc>http://atfirstsight.org/images/support225.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://atfirstsight.org/images/applysms2.jpg</image:loc>
+      <image:loc>http://atfirstsight.org/images/apply1b.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://atfirstsight.org/images/imglocation225-crop-u146995.jpg</image:loc>
     </image:image>
   </url>
   <url>
