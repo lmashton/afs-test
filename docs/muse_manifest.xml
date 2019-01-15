@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="atfirstsight.org" resolutions="1x" timestamp="1547581418628">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="atfirstsight.org" resolutions="1x" timestamp="1547582666475">
   <folder name="css">
     <file name="site_global.css" crc="4200273672"/>
     <file name="master_a-master.css" crc="121952360" ref="sight-reading:tuition:at-first-sight:insight:photos-2018:faculty:location:our-story:support-us:index:to-apply:outlook:musicianship:service:mission"/>
@@ -37,8 +37,8 @@
   <folder name="assets">
     <file name="afs-outlookform2018.pdf" crc="427351852" seo="true" mt="1506983658000"/>
     <file name="afs-application2018.pdf" crc="4024047881" seo="true" mt="1506983658000"/>
-    <file name="afs-application2019.pdf" crc="4021591258" seo="true" mt="1547491091000"/>
-    <file name="afs-outlookform2019.pdf" crc="368885430" seo="true" mt="1547491220000"/>
+    <file name="afs-application2019.pdf" crc="69308602" seo="true" mt="1547582323000"/>
+    <file name="afs-outlookform2019.pdf" crc="3980573649" seo="true" mt="1547582623000"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:insight:tuition:mission:sight-reading:musicianship:service:outlook:location:support-us:faculty:at-first-sight:photos-2018:our-story:to-apply"/>
