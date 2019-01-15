@@ -1,11 +1,11 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="atfirstsight.org" resolutions="1x" timestamp="1547582666475">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="atfirstsight.org" resolutions="1x" timestamp="1547583900045">
   <folder name="css">
     <file name="site_global.css" crc="4200273672"/>
-    <file name="master_a-master.css" crc="121952360" ref="sight-reading:tuition:at-first-sight:insight:photos-2018:faculty:location:our-story:support-us:index:to-apply:outlook:musicianship:service:mission"/>
-    <file name="nomq_preview_master_a-master.css" crc="144915883" ref="sight-reading:tuition:at-first-sight:insight:photos-2018:faculty:location:our-story:support-us:index:to-apply:outlook:musicianship:service:mission"/>
+    <file name="master_a-master.css" crc="362366319" ref="sight-reading:tuition:at-first-sight:insight:photos-2018:faculty:location:our-story:support-us:index:to-apply:outlook:musicianship:service:mission"/>
+    <file name="nomq_preview_master_a-master.css" crc="3785075029" ref="sight-reading:tuition:at-first-sight:insight:photos-2018:faculty:location:our-story:support-us:index:to-apply:outlook:musicianship:service:mission"/>
     <file name="sight-reading.css" crc="317803514" ref="sight-reading"/>
     <file name="nomq_sight-reading.css" crc="52906913" ref="sight-reading"/>
-    <file name="tuition.css" crc="382865068" ref="tuition"/>
+    <file name="tuition.css" crc="325382650" ref="tuition"/>
     <file name="nomq_tuition.css" crc="54631926" ref="tuition"/>
     <file name="at-first-sight.css" crc="91585793" ref="at-first-sight"/>
     <file name="nomq_at-first-sight.css" crc="317318949" ref="at-first-sight"/>
@@ -25,8 +25,8 @@
     <file name="nomq_index.css" crc="107453066" ref="index"/>
     <file name="to-apply.css" crc="391236951" ref="to-apply"/>
     <file name="nomq_to-apply.css" crc="4116945068" ref="to-apply"/>
-    <file name="outlook.css" crc="3865947012" ref="outlook"/>
-    <file name="nomq_outlook.css" crc="4283634938" ref="outlook"/>
+    <file name="outlook.css" crc="4212947600" ref="outlook"/>
+    <file name="nomq_outlook.css" crc="4218239798" ref="outlook"/>
     <file name="musicianship.css" crc="3765242232" ref="musicianship"/>
     <file name="nomq_musicianship.css" crc="399366511" ref="musicianship"/>
     <file name="service.css" crc="403512284" ref="service"/>
@@ -358,9 +358,6 @@
       <caption webpage="location" alt=""/>
       <caption webpage="location" alt=""/>
       <caption webpage="location" alt=""/>
-      <caption webpage="mission" alt=""/>
-      <caption webpage="mission" alt=""/>
-      <caption webpage="mission" alt=""/>
       <caption webpage="faculty" alt=""/>
       <caption webpage="faculty" alt=""/>
       <caption webpage="faculty" alt=""/>
@@ -375,6 +372,9 @@
       <caption webpage="musicianship" alt=""/>
       <caption webpage="musicianship" alt=""/>
       <caption webpage="musicianship" alt=""/>
+      <caption webpage="mission" alt=""/>
+      <caption webpage="mission" alt=""/>
+      <caption webpage="mission" alt=""/>
       <caption webpage="our-story" alt=""/>
       <caption webpage="our-story" alt=""/>
       <caption webpage="our-story" alt=""/>
@@ -501,7 +501,7 @@
       <caption webpage="outlook" alt=""/>
       <caption webpage="outlook" alt=""/>
     </file>
-    <file name="findusonfacebook-crop-u115617.jpg" crc="4147032018" seo="true" ref="outlook">
+    <file name="findusonfacebook-crop-u115617.jpg" crc="4261107990" seo="true" ref="outlook">
       <caption webpage="outlook" alt=""/>
     </file>
     <file name="outlook1b.jpg" crc="3948658114" seo="true" ref="outlook">
@@ -841,12 +841,12 @@
   </folder>
   <file name="index.html" crc="4065011596" seo="true" mt="1547510574831" redirect="true"/>
   <file name="insight.html" crc="3799706761" seo="true" mt="1547510574831" redirect="true"/>
-  <file name="tuition.html" crc="4094250723" seo="true" mt="1547581242206" redirect="true"/>
+  <file name="tuition.html" crc="436623736" seo="true" mt="1547583838111" redirect="true"/>
   <file name="mission.html" crc="3983018483" seo="true" mt="1547510574831" redirect="true"/>
   <file name="sight-reading.html" crc="3970734371" seo="true" mt="1547510574831" redirect="true"/>
   <file name="musicianship.html" crc="3884036664" seo="true" mt="1547510574831" redirect="true"/>
   <file name="service.html" crc="4271381131" seo="true" mt="1547510574831" redirect="true"/>
-  <file name="outlook.html" crc="365932624" seo="true" mt="1547510574831" redirect="true"/>
+  <file name="outlook.html" crc="4001442779" seo="true" mt="1547583551285" redirect="true"/>
   <file name="location.html" crc="338694063" seo="true" mt="1547510574831" redirect="true"/>
   <file name="support-us.html" crc="94839450" seo="true" mt="1547510574831" redirect="true"/>
   <file name="faculty.html" crc="272203011" seo="true" mt="1547510574831" redirect="true"/>
