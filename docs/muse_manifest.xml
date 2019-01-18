@@ -1,8 +1,8 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="atfirstsight.org" resolutions="1x" timestamp="1547843987480">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="atfirstsight.org" resolutions="1x" timestamp="1547844285955">
   <folder name="css">
     <file name="site_global.css" crc="4200273672"/>
-    <file name="master_a-master.css" crc="4157986610" ref="sight-reading:tuition:at-first-sight:insight:photos-2018:faculty:location:our-story:support-us:index:to-apply:outlook:musicianship:service:mission"/>
-    <file name="nomq_preview_master_a-master.css" crc="4033128011" ref="sight-reading:tuition:at-first-sight:insight:photos-2018:faculty:location:our-story:support-us:index:to-apply:outlook:musicianship:service:mission"/>
+    <file name="master_a-master.css" crc="254243381" ref="sight-reading:tuition:at-first-sight:insight:photos-2018:faculty:location:our-story:support-us:index:to-apply:outlook:musicianship:service:mission"/>
+    <file name="nomq_preview_master_a-master.css" crc="4004400121" ref="sight-reading:tuition:at-first-sight:insight:photos-2018:faculty:location:our-story:support-us:index:to-apply:outlook:musicianship:service:mission"/>
     <file name="sight-reading.css" crc="317803514" ref="sight-reading"/>
     <file name="nomq_sight-reading.css" crc="52906913" ref="sight-reading"/>
     <file name="tuition.css" crc="325382650" ref="tuition"/>
@@ -56,7 +56,7 @@
     <file name="require.js" crc="7928878" ref="index:insight:tuition:mission:sight-reading:musicianship:service:outlook:location:support-us:faculty:at-first-sight:photos-2018:our-story:to-apply"/>
   </folder>
   <folder name="images">
-    <file name="favicon.ico" crc="93987138" ref="index:tuition:faculty:insight:at-first-sight"/>
+    <file name="favicon.ico" crc="93987138" ref="index:tuition:faculty:insight"/>
     <file name="slideshow1a.jpg" crc="4163812638" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
@@ -148,7 +148,7 @@
       <caption webpage="photos-2018" alt=""/>
       <caption webpage="photos-2018" alt=""/>
     </file>
-    <file name="arrowmenudown.png" crc="262559161" ref="index:tuition:faculty:insight:at-first-sight">
+    <file name="arrowmenudown.png" crc="262559161" ref="index:tuition:faculty:insight">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -865,7 +865,7 @@
     </file>
   </folder>
   <file name="index.html" crc="4065011596" seo="true" mt="1547510574831" redirect="true"/>
-  <file name="insight.html" crc="4034177891" seo="true" mt="1547843441669" redirect="true"/>
+  <file name="insight.html" crc="4207300592" seo="true" mt="1547844182393" redirect="true"/>
   <file name="tuition.html" crc="436623736" seo="true" mt="1547583838111" redirect="true"/>
   <file name="mission.html" crc="3983018483" seo="true" mt="1547510574831" redirect="true"/>
   <file name="sight-reading.html" crc="3970734371" seo="true" mt="1547510574831" redirect="true"/>
@@ -875,7 +875,7 @@
   <file name="location.html" crc="338694063" seo="true" mt="1547510574831" redirect="true"/>
   <file name="support-us.html" crc="94839450" seo="true" mt="1547510574831" redirect="true"/>
   <file name="faculty.html" crc="55354026" seo="true" mt="1547669559215" redirect="true"/>
-  <file name="at-first-sight.html" crc="4081650549" seo="true" mt="1547843981274" redirect="true"/>
+  <file name="at-first-sight.html" crc="409884369" seo="true" mt="1547844130803" redirect="true"/>
   <file name="photos-2018.html" crc="4214670675" seo="true" mt="1547510574831" redirect="true"/>
   <file name="our-story.html" crc="4236461771" seo="true" mt="1547510574831" redirect="true"/>
   <file name="to-apply.html" crc="3793053465" seo="true" mt="1547510574831" redirect="true"/>
