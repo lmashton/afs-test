@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="atfirstsight.org" resolutions="1x" timestamp="1547844525612">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="atfirstsight.org" resolutions="1x" timestamp="1547845242560">
   <folder name="css">
     <file name="site_global.css" crc="4200273672"/>
     <file name="master_a-master.css" crc="4157986610" ref="sight-reading:tuition:at-first-sight:insight:photos-2018:faculty:location:our-story:support-us:index:to-apply:outlook:musicianship:service:mission"/>
@@ -7,8 +7,8 @@
     <file name="nomq_sight-reading.css" crc="52906913" ref="sight-reading"/>
     <file name="tuition.css" crc="325382650" ref="tuition"/>
     <file name="nomq_tuition.css" crc="54631926" ref="tuition"/>
-    <file name="at-first-sight.css" crc="3852989846" ref="at-first-sight"/>
-    <file name="nomq_at-first-sight.css" crc="3849432910" ref="at-first-sight"/>
+    <file name="at-first-sight.css" crc="4193233969" ref="at-first-sight"/>
+    <file name="nomq_at-first-sight.css" crc="3880233900" ref="at-first-sight"/>
     <file name="insight.css" crc="4021799715" ref="insight"/>
     <file name="nomq_insight.css" crc="4034009008" ref="insight"/>
     <file name="photos-2018.css" crc="3927662065" ref="photos-2018"/>
@@ -683,7 +683,7 @@
       <caption webpage="at-first-sight" alt=""/>
       <caption webpage="at-first-sight" alt=""/>
     </file>
-    <file name="afs3.jpg" crc="199367782" seo="true" ref="at-first-sight">
+    <file name="afs3.jpg" crc="75430756" seo="true" ref="at-first-sight">
       <caption webpage="at-first-sight" alt=""/>
       <caption webpage="at-first-sight" alt=""/>
       <caption webpage="at-first-sight" alt=""/>
@@ -875,7 +875,7 @@
   <file name="location.html" crc="338694063" seo="true" mt="1547510574831" redirect="true"/>
   <file name="support-us.html" crc="94839450" seo="true" mt="1547510574831" redirect="true"/>
   <file name="faculty.html" crc="55354026" seo="true" mt="1547669559215" redirect="true"/>
-  <file name="at-first-sight.html" crc="4285274212" seo="true" mt="1547844447845" redirect="true"/>
+  <file name="at-first-sight.html" crc="4093291455" seo="true" mt="1547845236482" redirect="true"/>
   <file name="photos-2018.html" crc="4214670675" seo="true" mt="1547510574831" redirect="true"/>
   <file name="our-story.html" crc="4236461771" seo="true" mt="1547510574831" redirect="true"/>
   <file name="to-apply.html" crc="3793053465" seo="true" mt="1547510574831" redirect="true"/>
