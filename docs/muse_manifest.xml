@@ -1,14 +1,14 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="atfirstsight.org" resolutions="1x" timestamp="1547843499041">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="atfirstsight.org" resolutions="1x" timestamp="1547843987480">
   <folder name="css">
     <file name="site_global.css" crc="4200273672"/>
-    <file name="master_a-master.css" crc="254243381" ref="sight-reading:tuition:at-first-sight:insight:photos-2018:faculty:location:our-story:support-us:index:to-apply:outlook:musicianship:service:mission"/>
-    <file name="nomq_preview_master_a-master.css" crc="4004400121" ref="sight-reading:tuition:at-first-sight:insight:photos-2018:faculty:location:our-story:support-us:index:to-apply:outlook:musicianship:service:mission"/>
+    <file name="master_a-master.css" crc="4157986610" ref="sight-reading:tuition:at-first-sight:insight:photos-2018:faculty:location:our-story:support-us:index:to-apply:outlook:musicianship:service:mission"/>
+    <file name="nomq_preview_master_a-master.css" crc="4033128011" ref="sight-reading:tuition:at-first-sight:insight:photos-2018:faculty:location:our-story:support-us:index:to-apply:outlook:musicianship:service:mission"/>
     <file name="sight-reading.css" crc="317803514" ref="sight-reading"/>
     <file name="nomq_sight-reading.css" crc="52906913" ref="sight-reading"/>
     <file name="tuition.css" crc="325382650" ref="tuition"/>
     <file name="nomq_tuition.css" crc="54631926" ref="tuition"/>
-    <file name="at-first-sight.css" crc="211400148" ref="at-first-sight"/>
-    <file name="nomq_at-first-sight.css" crc="317318949" ref="at-first-sight"/>
+    <file name="at-first-sight.css" crc="3852989846" ref="at-first-sight"/>
+    <file name="nomq_at-first-sight.css" crc="3849432910" ref="at-first-sight"/>
     <file name="insight.css" crc="4021799715" ref="insight"/>
     <file name="nomq_insight.css" crc="4034009008" ref="insight"/>
     <file name="photos-2018.css" crc="3927662065" ref="photos-2018"/>
@@ -56,7 +56,7 @@
     <file name="require.js" crc="7928878" ref="index:insight:tuition:mission:sight-reading:musicianship:service:outlook:location:support-us:faculty:at-first-sight:photos-2018:our-story:to-apply"/>
   </folder>
   <folder name="images">
-    <file name="favicon.ico" crc="93987138" ref="index:tuition:faculty:insight"/>
+    <file name="favicon.ico" crc="93987138" ref="index:tuition:faculty:insight:at-first-sight"/>
     <file name="slideshow1a.jpg" crc="4163812638" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
@@ -148,7 +148,7 @@
       <caption webpage="photos-2018" alt=""/>
       <caption webpage="photos-2018" alt=""/>
     </file>
-    <file name="arrowmenudown.png" crc="262559161" ref="index:tuition:faculty:insight">
+    <file name="arrowmenudown.png" crc="262559161" ref="index:tuition:faculty:insight:at-first-sight">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -181,6 +181,14 @@
       <caption webpage="faculty" alt=""/>
       <caption webpage="faculty" alt=""/>
       <caption webpage="faculty" alt=""/>
+      <caption webpage="at-first-sight" alt=""/>
+      <caption webpage="at-first-sight" alt=""/>
+      <caption webpage="at-first-sight" alt=""/>
+      <caption webpage="at-first-sight" alt=""/>
+      <caption webpage="at-first-sight" alt=""/>
+      <caption webpage="at-first-sight" alt=""/>
+      <caption webpage="at-first-sight" alt=""/>
+      <caption webpage="at-first-sight" alt=""/>
     </file>
     <file name="date1.jpg" crc="4142627280" seo="true" ref="index:insight:tuition:mission:sight-reading:musicianship:service:outlook:location:support-us:faculty:at-first-sight:photos-2018:our-story:to-apply">
       <caption webpage="mission" alt=""/>
@@ -364,9 +372,6 @@
       <caption webpage="mission" alt=""/>
       <caption webpage="mission" alt=""/>
       <caption webpage="mission" alt=""/>
-      <caption webpage="service" alt=""/>
-      <caption webpage="service" alt=""/>
-      <caption webpage="service" alt=""/>
       <caption webpage="musicianship" alt=""/>
       <caption webpage="musicianship" alt=""/>
       <caption webpage="musicianship" alt=""/>
@@ -384,16 +389,19 @@
       <caption webpage="insight" alt=""/>
       <caption webpage="outlook" alt=""/>
       <caption webpage="outlook" alt=""/>
-      <caption webpage="tuition" alt=""/>
-      <caption webpage="tuition" alt=""/>
-      <caption webpage="tuition" alt=""/>
-      <caption webpage="tuition" alt=""/>
+      <caption webpage="service" alt=""/>
+      <caption webpage="service" alt=""/>
+      <caption webpage="service" alt=""/>
       <caption webpage="faculty" alt=""/>
       <caption webpage="faculty" alt=""/>
       <caption webpage="faculty" alt=""/>
       <caption webpage="our-story" alt=""/>
       <caption webpage="our-story" alt=""/>
       <caption webpage="our-story" alt=""/>
+      <caption webpage="tuition" alt=""/>
+      <caption webpage="tuition" alt=""/>
+      <caption webpage="tuition" alt=""/>
+      <caption webpage="tuition" alt=""/>
     </file>
     <file name="insight1b.jpg" crc="225754935" seo="true" ref="insight">
       <caption webpage="insight" alt=""/>
@@ -663,6 +671,7 @@
     <file name="atfirstsight1a.jpg" crc="4243072119" seo="true" ref="at-first-sight">
       <caption webpage="at-first-sight" alt=""/>
       <caption webpage="at-first-sight" alt=""/>
+      <caption webpage="at-first-sight" alt=""/>
     </file>
     <file name="afs2.jpg" crc="262879061" seo="true" ref="at-first-sight">
       <caption webpage="at-first-sight" alt=""/>
@@ -866,7 +875,7 @@
   <file name="location.html" crc="338694063" seo="true" mt="1547510574831" redirect="true"/>
   <file name="support-us.html" crc="94839450" seo="true" mt="1547510574831" redirect="true"/>
   <file name="faculty.html" crc="55354026" seo="true" mt="1547669559215" redirect="true"/>
-  <file name="at-first-sight.html" crc="4150843941" seo="true" mt="1547843467837" redirect="true"/>
+  <file name="at-first-sight.html" crc="4081650549" seo="true" mt="1547843981274" redirect="true"/>
   <file name="photos-2018.html" crc="4214670675" seo="true" mt="1547510574831" redirect="true"/>
   <file name="our-story.html" crc="4236461771" seo="true" mt="1547510574831" redirect="true"/>
   <file name="to-apply.html" crc="3793053465" seo="true" mt="1547510574831" redirect="true"/>
