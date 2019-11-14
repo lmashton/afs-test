@@ -897,13 +897,13 @@
       <image:loc>http://atfirstsight.org/images/supportus1a.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://atfirstsight.org/images/support2.jpg</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://atfirstsight.org/images/support3.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://atfirstsight.org/images/support4.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://atfirstsight.org/images/support2.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://atfirstsight.org/images/supportus1b.jpg</image:loc>
@@ -917,7 +917,7 @@
   </url>
   <url>
     <loc>http://atfirstsight.org/assets/afs-application2020.pdf</loc>
-    <lastmod>2019-11-13</lastmod>
+    <lastmod>2019-11-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
