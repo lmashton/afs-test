@@ -1,8 +1,8 @@
-<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="atfirstsight.org" resolutions="1x" timestamp="1582582598672">
+<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="atfirstsight.org" resolutions="1x" timestamp="1582584966225">
   <folder name="css">
     <file name="site_global.css" crc="4200273672"/>
-    <file name="master_a-master.css" crc="4153219564" ref="faculty:support-us:to-apply:insight:index:mission:outlook:location:our-story:musicianship:sight-reading:at-first-sight:photos-2019:service:tuition:payment-process"/>
-    <file name="nomq_preview_master_a-master.css" crc="454852828" ref="faculty:support-us:to-apply:insight:index:mission:outlook:location:our-story:musicianship:sight-reading:at-first-sight:photos-2019:service:tuition:payment-process"/>
+    <file name="master_a-master.css" crc="4168467668" ref="faculty:support-us:to-apply:insight:index:mission:outlook:location:our-story:musicianship:sight-reading:at-first-sight:photos-2019:service:tuition:payment-process"/>
+    <file name="nomq_preview_master_a-master.css" crc="3975442604" ref="faculty:support-us:to-apply:insight:index:mission:outlook:location:our-story:musicianship:sight-reading:at-first-sight:photos-2019:service:tuition:payment-process"/>
     <file name="faculty.css" crc="4021087563" ref="faculty"/>
     <file name="nomq_faculty.css" crc="3778397035" ref="faculty"/>
     <file name="support-us.css" crc="3959340629" ref="support-us"/>
@@ -33,8 +33,8 @@
     <file name="nomq_service.css" crc="3944250688" ref="service"/>
     <file name="tuition.css" crc="3814101868" ref="tuition"/>
     <file name="nomq_tuition.css" crc="347826673" ref="tuition"/>
-    <file name="payment-process.css" crc="100791658" ref="payment-process"/>
-    <file name="nomq_payment-process.css" crc="532344012" ref="payment-process"/>
+    <file name="payment-process.css" crc="4244258444" ref="payment-process"/>
+    <file name="nomq_payment-process.css" crc="3764188478" ref="payment-process"/>
   </folder>
   <folder name="assets">
     <file name="afs-outlookform2018.pdf" crc="427351852" seo="true" mt="1506983658000"/>
@@ -62,7 +62,7 @@
     <file name="require.js" crc="4177726516" ref="index:insight:tuition:mission:sight-reading:musicianship:service:outlook:location:support-us:faculty:at-first-sight:photos-2019:our-story:to-apply:payment-process"/>
   </folder>
   <folder name="images">
-    <file name="favicon.ico" crc="93987138" ref="index:tuition"/>
+    <file name="favicon.ico" crc="93987138" ref="index:tuition:payment-process"/>
     <file name="slideshow1a.jpg" crc="14621445" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
@@ -141,7 +141,7 @@
       <caption webpage="photos-2019" alt=""/>
       <caption webpage="photos-2019" alt=""/>
     </file>
-    <file name="arrowmenudown.png" crc="262559161" ref="index:tuition">
+    <file name="arrowmenudown.png" crc="262559161" ref="index:tuition:payment-process">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -158,6 +158,14 @@
       <caption webpage="tuition" alt=""/>
       <caption webpage="tuition" alt=""/>
       <caption webpage="tuition" alt=""/>
+      <caption webpage="payment-process" alt=""/>
+      <caption webpage="payment-process" alt=""/>
+      <caption webpage="payment-process" alt=""/>
+      <caption webpage="payment-process" alt=""/>
+      <caption webpage="payment-process" alt=""/>
+      <caption webpage="payment-process" alt=""/>
+      <caption webpage="payment-process" alt=""/>
+      <caption webpage="payment-process" alt=""/>
     </file>
     <file name="date1.jpg" crc="332245289" seo="true" ref="index:insight:tuition:mission:sight-reading:musicianship:service:outlook:location:support-us:faculty:at-first-sight:photos-2019:our-story:to-apply:payment-process">
       <caption webpage="outlook" alt=""/>
@@ -903,11 +911,13 @@
     <file name="imglocation225-crop-u146995.jpg" crc="4286785584" seo="true" ref="to-apply">
       <caption webpage="to-apply" alt=""/>
     </file>
-    <file name="arrowmenuright.png" crc="41086373" ref="index:tuition">
+    <file name="arrowmenuright.png" crc="41086373" ref="index:tuition:payment-process">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="tuition" alt=""/>
       <caption webpage="tuition" alt=""/>
+      <caption webpage="payment-process" alt=""/>
+      <caption webpage="payment-process" alt=""/>
     </file>
   </folder>
   <file name="index.html" crc="4285570007" seo="true" mt="1582487773234" redirect="true"/>
@@ -925,5 +935,5 @@
   <file name="photos-2019.html" crc="98072529" seo="true" mt="1582487773234" redirect="true"/>
   <file name="our-story.html" crc="3923847839" seo="true" mt="1582487773234" redirect="true"/>
   <file name="to-apply.html" crc="4053653261" seo="true" mt="1582487773234" redirect="true"/>
-  <file name="payment-process.html" crc="212370267" seo="true" mt="1582500351790" redirect="true"/>
+  <file name="payment-process.html" crc="350447928" seo="true" mt="1582584787650" redirect="true"/>
 </manifest>
