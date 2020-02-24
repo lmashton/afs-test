@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="atfirstsight.org" resolutions="1x" timestamp="1582584966225">
+<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="atfirstsight.org" resolutions="1x" timestamp="1582585839871">
   <folder name="css">
     <file name="site_global.css" crc="4200273672"/>
     <file name="master_a-master.css" crc="4168467668" ref="faculty:support-us:to-apply:insight:index:mission:outlook:location:our-story:musicianship:sight-reading:at-first-sight:photos-2019:service:tuition:payment-process"/>
@@ -33,8 +33,8 @@
     <file name="nomq_service.css" crc="3944250688" ref="service"/>
     <file name="tuition.css" crc="3814101868" ref="tuition"/>
     <file name="nomq_tuition.css" crc="347826673" ref="tuition"/>
-    <file name="payment-process.css" crc="4244258444" ref="payment-process"/>
-    <file name="nomq_payment-process.css" crc="3764188478" ref="payment-process"/>
+    <file name="payment-process.css" crc="4052800566" ref="payment-process"/>
+    <file name="nomq_payment-process.css" crc="4058278532" ref="payment-process"/>
   </folder>
   <folder name="assets">
     <file name="afs-outlookform2018.pdf" crc="427351852" seo="true" mt="1506983658000"/>
@@ -935,5 +935,5 @@
   <file name="photos-2019.html" crc="98072529" seo="true" mt="1582487773234" redirect="true"/>
   <file name="our-story.html" crc="3923847839" seo="true" mt="1582487773234" redirect="true"/>
   <file name="to-apply.html" crc="4053653261" seo="true" mt="1582487773234" redirect="true"/>
-  <file name="payment-process.html" crc="350447928" seo="true" mt="1582584787650" redirect="true"/>
+  <file name="payment-process.html" crc="4083634627" seo="true" mt="1582585757052" redirect="true"/>
 </manifest>
