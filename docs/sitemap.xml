@@ -317,7 +317,7 @@
   </url>
   <url>
     <loc>http://atfirstsight.org/faculty.html</loc>
-    <lastmod>2020-02-24</lastmod>
+    <lastmod>2020-02-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -394,6 +394,9 @@
     </image:image>
     <image:image>
       <image:loc>http://atfirstsight.org/images/imglaurie-crop-u1363583.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://atfirstsight.org/images/imglaurie-crop-u1363584.png</image:loc>
     </image:image>
   </url>
   <url>
@@ -680,7 +683,7 @@
   </url>
   <url>
     <loc>http://atfirstsight.org/tuition.html</loc>
-    <lastmod>2020-02-24</lastmod>
+    <lastmod>2020-02-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
