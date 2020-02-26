@@ -1,13 +1,13 @@
-<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="atfirstsight.org" resolutions="1x" timestamp="1582734925885">
+<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="atfirstsight.org" resolutions="1x" timestamp="1582736461683">
   <folder name="css">
     <file name="site_global.css" crc="4200273672"/>
-    <file name="master_a-master.css" crc="4215458030" ref="faculty:support-us:to-apply:insight:index:mission:outlook:location:our-story:musicianship:sight-reading:at-first-sight:photos-2019:service:tuition:p.portal"/>
+    <file name="master_a-master.css" crc="4273155690" ref="faculty:support-us:to-apply:insight:index:mission:outlook:location:our-story:musicianship:sight-reading:at-first-sight:photos-2019:service:tuition:p.portal"/>
     <file name="nomq_preview_master_a-master.css" crc="4256665057" ref="faculty:support-us:to-apply:insight:index:mission:outlook:location:our-story:musicianship:sight-reading:at-first-sight:photos-2019:service:tuition:p.portal"/>
     <file name="faculty.css" crc="3793692918" ref="faculty"/>
     <file name="nomq_faculty.css" crc="4033264950" ref="faculty"/>
     <file name="support-us.css" crc="390564461" ref="support-us"/>
     <file name="nomq_support-us.css" crc="3790355914" ref="support-us"/>
-    <file name="to-apply.css" crc="36274085" ref="to-apply"/>
+    <file name="to-apply.css" crc="3897040295" ref="to-apply"/>
     <file name="nomq_to-apply.css" crc="4096558564" ref="to-apply"/>
     <file name="insight.css" crc="96690203" ref="insight"/>
     <file name="nomq_insight.css" crc="183419254" ref="insight"/>
@@ -62,7 +62,7 @@
     <file name="require.js" crc="4177726516" ref="index:insight:tuition:mission:sight-reading:musicianship:service:outlook:location:support-us:faculty:at-first-sight:photos-2019:our-story:to-apply:p.portal"/>
   </folder>
   <folder name="images">
-    <file name="favicon.ico" crc="93987138" ref="index:faculty:tuition"/>
+    <file name="favicon.ico" crc="93987138" ref="index:faculty:tuition:to-apply"/>
     <file name="slideshow1a.jpg" crc="14621445" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
@@ -143,7 +143,7 @@
       <caption webpage="payment-process" alt=""/>
       <caption webpage="payment-process" alt=""/>
     </file>
-    <file name="arrowmenudown.png" crc="262559161" ref="index:faculty:tuition">
+    <file name="arrowmenudown.png" crc="262559161" ref="index:faculty:tuition:to-apply">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -176,6 +176,14 @@
       <caption webpage="tuition" alt=""/>
       <caption webpage="tuition" alt=""/>
       <caption webpage="tuition" alt=""/>
+      <caption webpage="to-apply" alt=""/>
+      <caption webpage="to-apply" alt=""/>
+      <caption webpage="to-apply" alt=""/>
+      <caption webpage="to-apply" alt=""/>
+      <caption webpage="to-apply" alt=""/>
+      <caption webpage="to-apply" alt=""/>
+      <caption webpage="to-apply" alt=""/>
+      <caption webpage="to-apply" alt=""/>
     </file>
     <file name="date1.jpg" crc="332245289" seo="true" ref="index:insight:tuition:mission:sight-reading:musicianship:service:outlook:location:support-us:faculty:at-first-sight:photos-2019:our-story:to-apply:p.portal">
       <caption webpage="sight-reading" alt=""/>
@@ -353,20 +361,20 @@
       <caption webpage="location" alt=""/>
       <caption webpage="location" alt=""/>
       <caption webpage="location" alt=""/>
-      <caption webpage="mission" alt=""/>
-      <caption webpage="mission" alt=""/>
-      <caption webpage="mission" alt=""/>
-      <caption webpage="insight" alt=""/>
-      <caption webpage="insight" alt=""/>
-      <caption webpage="insight" alt=""/>
-      <caption webpage="service" alt=""/>
-      <caption webpage="service" alt=""/>
-      <caption webpage="service" alt=""/>
-      <caption webpage="musicianship" alt=""/>
-      <caption webpage="musicianship" alt=""/>
-      <caption webpage="musicianship" alt=""/>
       <caption webpage="tuition" alt=""/>
       <caption webpage="tuition" alt=""/>
+      <caption webpage="insight" alt=""/>
+      <caption webpage="insight" alt=""/>
+      <caption webpage="insight" alt=""/>
+      <caption webpage="service" alt=""/>
+      <caption webpage="service" alt=""/>
+      <caption webpage="service" alt=""/>
+      <caption webpage="mission" alt=""/>
+      <caption webpage="mission" alt=""/>
+      <caption webpage="mission" alt=""/>
+      <caption webpage="musicianship" alt=""/>
+      <caption webpage="musicianship" alt=""/>
+      <caption webpage="musicianship" alt=""/>
     </file>
     <file name="insightorch960.jpg" crc="281810353" seo="true" ref="insight">
       <caption webpage="insight" alt=""/>
@@ -948,7 +956,7 @@
     <file name="imglocation225-crop-u146995.jpg" crc="4286785584" seo="true" ref="to-apply">
       <caption webpage="to-apply" alt=""/>
     </file>
-    <file name="arrowmenuright.png" crc="41086373" ref="index:faculty:tuition">
+    <file name="arrowmenuright.png" crc="41086373" ref="index:faculty:tuition:to-apply">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="faculty" alt=""/>
@@ -957,6 +965,8 @@
       <caption webpage="payment-process" alt=""/>
       <caption webpage="tuition" alt=""/>
       <caption webpage="tuition" alt=""/>
+      <caption webpage="to-apply" alt=""/>
+      <caption webpage="to-apply" alt=""/>
     </file>
     <file name="imglaurie-crop-u1363584.png" crc="3993694088" seo="true" ref="faculty">
       <caption webpage="faculty" alt=""/>
@@ -970,7 +980,7 @@
   </folder>
   <file name="index.html" crc="3763809294" seo="true" mt="1582681442816" redirect="true"/>
   <file name="insight.html" crc="4116293568" seo="true" mt="1582681442816" redirect="true"/>
-  <file name="tuition.html" crc="4179013635" seo="true" mt="1582734706677" redirect="true"/>
+  <file name="tuition.html" crc="4274577661" seo="true" mt="1582735041530" redirect="true"/>
   <file name="mission.html" crc="3906815823" seo="true" mt="1582681442816" redirect="true"/>
   <file name="sight-reading.html" crc="167585417" seo="true" mt="1582681442816" redirect="true"/>
   <file name="musicianship.html" crc="177615837" seo="true" mt="1582681442816" redirect="true"/>
@@ -982,6 +992,6 @@
   <file name="at-first-sight.html" crc="342060295" seo="true" mt="1582681442816" redirect="true"/>
   <file name="photos-2019.html" crc="451250266" seo="true" mt="1582681442816" redirect="true"/>
   <file name="our-story.html" crc="111242814" seo="true" mt="1582681442816" redirect="true"/>
-  <file name="to-apply.html" crc="4109291869" seo="true" mt="1582681442816" redirect="true"/>
+  <file name="to-apply.html" crc="77142241" seo="true" mt="1582736427259" redirect="true"/>
   <file name="p.portal.html" crc="3926731374" seo="true" mt="1582681442816" redirect="true"/>
 </manifest>
