@@ -695,7 +695,7 @@
   </url>
   <url>
     <loc>http://atfirstsight.org/insight.html</loc>
-    <lastmod>2021-11-03</lastmod>
+    <lastmod>2021-11-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -711,9 +711,6 @@
       <image:loc>http://atfirstsight.org/images/insight1a.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://atfirstsight.org/images/insight3.jpg</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://atfirstsight.org/images/insight4.jpg</image:loc>
     </image:image>
     <image:image>
@@ -727,6 +724,9 @@
     </image:image>
     <image:image>
       <image:loc>http://atfirstsight.org/images/insight1b.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://atfirstsight.org/images/background.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://atfirstsight.org/images/date.png</image:loc>
