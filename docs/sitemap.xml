@@ -85,8 +85,56 @@
     </image:image>
   </url>
   <url>
+    <loc>http://atfirstsight.org/insight.html</loc>
+    <lastmod>2021-11-04</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://atfirstsight.org/images/banner.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://atfirstsight.org/images/hampng.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://atfirstsight.org/images/title1.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://atfirstsight.org/images/insight1a.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://atfirstsight.org/images/insight4.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://atfirstsight.org/images/insight2.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://atfirstsight.org/images/insight5.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://atfirstsight.org/images/findusonfacebook.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://atfirstsight.org/images/insight1b.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://atfirstsight.org/images/background.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://atfirstsight.org/images/date.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://atfirstsight.org/images/date2.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://atfirstsight.org/images/date3.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://atfirstsight.org/images/insightorchestra.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
     <loc>http://atfirstsight.org/tuition.html</loc>
-    <lastmod>2021-11-03</lastmod>
+    <lastmod>2021-11-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -181,54 +229,6 @@
     </image:image>
     <image:image>
       <image:loc>http://atfirstsight.org/images/mission4320x100.jpg</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>http://atfirstsight.org/sight-reading.html</loc>
-    <lastmod>2021-11-03</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://atfirstsight.org/images/banner.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://atfirstsight.org/images/hampng.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://atfirstsight.org/images/title1.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://atfirstsight.org/images/findusonfacebook.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://atfirstsight.org/images/sightreading1a.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://atfirstsight.org/images/sightreading2.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://atfirstsight.org/images/date.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://atfirstsight.org/images/date2.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://atfirstsight.org/images/date3.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://atfirstsight.org/images/sightreading1.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://atfirstsight.org/images/mendelssohn960.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://atfirstsight.org/images/mendelssohn768.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://atfirstsight.org/images/mendelssohn470.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://atfirstsight.org/images/mendelssohn320.jpg</image:loc>
     </image:image>
   </url>
   <url>
@@ -694,54 +694,6 @@
     </image:image>
   </url>
   <url>
-    <loc>http://atfirstsight.org/insight.html</loc>
-    <lastmod>2021-11-04</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://atfirstsight.org/images/banner.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://atfirstsight.org/images/hampng.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://atfirstsight.org/images/title1.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://atfirstsight.org/images/insight1a.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://atfirstsight.org/images/insight4.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://atfirstsight.org/images/insight2.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://atfirstsight.org/images/insight5.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://atfirstsight.org/images/findusonfacebook.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://atfirstsight.org/images/insight1b.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://atfirstsight.org/images/background.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://atfirstsight.org/images/date.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://atfirstsight.org/images/date2.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://atfirstsight.org/images/date3.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://atfirstsight.org/images/insightorchestra.jpg</image:loc>
-    </image:image>
-  </url>
-  <url>
     <loc>http://atfirstsight.org/support-us.html</loc>
     <lastmod>2021-11-03</lastmod>
     <changefreq>weekly</changefreq>
@@ -826,6 +778,54 @@
     </image:image>
   </url>
   <url>
+    <loc>http://atfirstsight.org/sight-reading.html</loc>
+    <lastmod>2021-11-03</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://atfirstsight.org/images/banner.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://atfirstsight.org/images/hampng.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://atfirstsight.org/images/title1.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://atfirstsight.org/images/findusonfacebook.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://atfirstsight.org/images/sightreading1a.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://atfirstsight.org/images/sightreading2.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://atfirstsight.org/images/date.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://atfirstsight.org/images/date2.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://atfirstsight.org/images/date3.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://atfirstsight.org/images/sightreading1.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://atfirstsight.org/images/mendelssohn960.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://atfirstsight.org/images/mendelssohn768.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://atfirstsight.org/images/mendelssohn470.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://atfirstsight.org/images/mendelssohn320.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
     <loc>http://atfirstsight.org/service.html</loc>
     <lastmod>2021-11-03</lastmod>
     <changefreq>weekly</changefreq>
@@ -877,8 +877,20 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>http://atfirstsight.org/assets/afs-application2022.pdf</loc>
+    <lastmod>2021-11-07</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>http://atfirstsight.org/assets/afs-application2018.pdf</loc>
     <lastmod>2017-10-02</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://atfirstsight.org/assets/afs-outlookform2022.pdf</loc>
+    <lastmod>2021-11-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
