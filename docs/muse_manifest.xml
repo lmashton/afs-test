@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="atfirstsight.org" resolutions="1x" timestamp="1649704981520">
+<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="atfirstsight.org" resolutions="1x" timestamp="1649705415385">
   <folder name="css">
     <file name="site_global.css" crc="4200273672"/>
     <file name="master_a-master.css" crc="64100517" ref="faculty:support-us:to-apply:insight:index:mission:outlook:location:our-story:musicianship:sight-reading:at-first-sight:service:tuition:p.portal:photos-2021"/>
@@ -9,7 +9,7 @@
     <file name="nomq_support-us.css" crc="3814609092" ref="support-us"/>
     <file name="to-apply.css" crc="56580219" ref="to-apply"/>
     <file name="nomq_to-apply.css" crc="4150070001" ref="to-apply"/>
-    <file name="insight.css" crc="3958153214" ref="insight"/>
+    <file name="insight.css" crc="433594998" ref="insight"/>
     <file name="nomq_insight.css" crc="294764869" ref="insight"/>
     <file name="index.css" crc="3812187853" ref="index"/>
     <file name="nomq_index.css" crc="359444262" ref="index"/>
@@ -27,7 +27,7 @@
     <file name="nomq_sight-reading.css" crc="3904427502" ref="sight-reading"/>
     <file name="at-first-sight.css" crc="3993104469" ref="at-first-sight"/>
     <file name="nomq_at-first-sight.css" crc="3985621883" ref="at-first-sight"/>
-    <file name="service.css" crc="4053511851" ref="service"/>
+    <file name="service.css" crc="486241006" ref="service"/>
     <file name="nomq_service.css" crc="3956461398" ref="service"/>
     <file name="tuition.css" crc="277216183" ref="tuition"/>
     <file name="nomq_tuition.css" crc="3769680053" ref="tuition"/>
@@ -83,136 +83,46 @@
       <caption webpage="index" alt=""/>
     </file>
     <file name="banner.jpg" crc="4264741238" seo="true" ref="index:insight:tuition:mission:sight-reading:musicianship:service:outlook:location:support-us:faculty:at-first-sight:our-story:to-apply:p.portal:photos-2021">
-      <caption webpage="photos-2021" alt=""/>
-      <caption webpage="photos-2021" alt=""/>
-      <caption webpage="outlook" alt=""/>
-      <caption webpage="outlook" alt=""/>
       <caption webpage="location" alt=""/>
       <caption webpage="location" alt=""/>
-      <caption webpage="our-story" alt=""/>
-      <caption webpage="our-story" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="to-apply" alt=""/>
-      <caption webpage="to-apply" alt=""/>
-      <caption webpage="at-first-sight" alt=""/>
-      <caption webpage="at-first-sight" alt=""/>
-      <caption webpage="faculty" alt=""/>
-      <caption webpage="faculty" alt=""/>
-      <caption webpage="p.portal" alt=""/>
-      <caption webpage="p.portal" alt=""/>
-      <caption webpage="tuition" alt=""/>
-      <caption webpage="tuition" alt=""/>
-      <caption webpage="payment-process" alt=""/>
-      <caption webpage="payment-process" alt=""/>
-      <caption webpage="musicianship" alt=""/>
-      <caption webpage="musicianship" alt=""/>
-      <caption webpage="virtual-afs" alt=""/>
-      <caption webpage="virtual-afs" alt=""/>
-      <caption webpage="support-us" alt=""/>
-      <caption webpage="support-us" alt=""/>
-      <caption webpage="insight" alt=""/>
-      <caption webpage="insight" alt=""/>
-      <caption webpage="mission" alt=""/>
-      <caption webpage="mission" alt=""/>
-      <caption webpage="sight-reading" alt=""/>
-      <caption webpage="sight-reading" alt=""/>
       <caption webpage="service" alt=""/>
       <caption webpage="service" alt=""/>
+      <caption webpage="virtual-afs" alt=""/>
+      <caption webpage="virtual-afs" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="faculty" alt=""/>
+      <caption webpage="faculty" alt=""/>
+      <caption webpage="at-first-sight" alt=""/>
+      <caption webpage="at-first-sight" alt=""/>
+      <caption webpage="payment-process" alt=""/>
+      <caption webpage="payment-process" alt=""/>
+      <caption webpage="to-apply" alt=""/>
+      <caption webpage="to-apply" alt=""/>
+      <caption webpage="sight-reading" alt=""/>
+      <caption webpage="sight-reading" alt=""/>
+      <caption webpage="p.portal" alt=""/>
+      <caption webpage="p.portal" alt=""/>
+      <caption webpage="our-story" alt=""/>
+      <caption webpage="our-story" alt=""/>
+      <caption webpage="photos-2021" alt=""/>
+      <caption webpage="photos-2021" alt=""/>
+      <caption webpage="insight" alt=""/>
+      <caption webpage="insight" alt=""/>
+      <caption webpage="outlook" alt=""/>
+      <caption webpage="outlook" alt=""/>
+      <caption webpage="mission" alt=""/>
+      <caption webpage="mission" alt=""/>
+      <caption webpage="support-us" alt=""/>
+      <caption webpage="support-us" alt=""/>
+      <caption webpage="tuition" alt=""/>
+      <caption webpage="tuition" alt=""/>
+      <caption webpage="musicianship" alt=""/>
+      <caption webpage="musicianship" alt=""/>
       <caption webpage="photos-2019" alt=""/>
       <caption webpage="photos-2019" alt=""/>
     </file>
     <file name="arrowmenudown.png" crc="262559161" ref="index:faculty:insight:tuition:support-us:outlook:musicianship">
-      <caption webpage="virtual-afs" alt=""/>
-      <caption webpage="virtual-afs" alt=""/>
-      <caption webpage="virtual-afs" alt=""/>
-      <caption webpage="virtual-afs" alt=""/>
-      <caption webpage="virtual-afs" alt=""/>
-      <caption webpage="virtual-afs" alt=""/>
-      <caption webpage="virtual-afs" alt=""/>
-      <caption webpage="virtual-afs" alt=""/>
-      <caption webpage="virtual-afs" alt=""/>
-      <caption webpage="virtual-afs" alt=""/>
-      <caption webpage="outlook" alt=""/>
-      <caption webpage="outlook" alt=""/>
-      <caption webpage="outlook" alt=""/>
-      <caption webpage="outlook" alt=""/>
-      <caption webpage="outlook" alt=""/>
-      <caption webpage="outlook" alt=""/>
-      <caption webpage="outlook" alt=""/>
-      <caption webpage="outlook" alt=""/>
-      <caption webpage="support-us" alt=""/>
-      <caption webpage="support-us" alt=""/>
-      <caption webpage="support-us" alt=""/>
-      <caption webpage="support-us" alt=""/>
-      <caption webpage="support-us" alt=""/>
-      <caption webpage="support-us" alt=""/>
-      <caption webpage="support-us" alt=""/>
-      <caption webpage="support-us" alt=""/>
-      <caption webpage="insight" alt=""/>
-      <caption webpage="insight" alt=""/>
-      <caption webpage="insight" alt=""/>
-      <caption webpage="insight" alt=""/>
-      <caption webpage="insight" alt=""/>
-      <caption webpage="insight" alt=""/>
-      <caption webpage="insight" alt=""/>
-      <caption webpage="insight" alt=""/>
-      <caption webpage="mission" alt=""/>
-      <caption webpage="mission" alt=""/>
-      <caption webpage="mission" alt=""/>
-      <caption webpage="mission" alt=""/>
-      <caption webpage="mission" alt=""/>
-      <caption webpage="mission" alt=""/>
-      <caption webpage="mission" alt=""/>
-      <caption webpage="mission" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="to-apply" alt=""/>
-      <caption webpage="to-apply" alt=""/>
-      <caption webpage="to-apply" alt=""/>
-      <caption webpage="to-apply" alt=""/>
-      <caption webpage="to-apply" alt=""/>
-      <caption webpage="to-apply" alt=""/>
-      <caption webpage="to-apply" alt=""/>
-      <caption webpage="to-apply" alt=""/>
-      <caption webpage="musicianship" alt=""/>
-      <caption webpage="musicianship" alt=""/>
-      <caption webpage="musicianship" alt=""/>
-      <caption webpage="musicianship" alt=""/>
-      <caption webpage="musicianship" alt=""/>
-      <caption webpage="musicianship" alt=""/>
-      <caption webpage="musicianship" alt=""/>
-      <caption webpage="musicianship" alt=""/>
-      <caption webpage="faculty" alt=""/>
-      <caption webpage="faculty" alt=""/>
-      <caption webpage="faculty" alt=""/>
-      <caption webpage="faculty" alt=""/>
-      <caption webpage="faculty" alt=""/>
-      <caption webpage="faculty" alt=""/>
-      <caption webpage="faculty" alt=""/>
-      <caption webpage="faculty" alt=""/>
-      <caption webpage="our-story" alt=""/>
-      <caption webpage="our-story" alt=""/>
-      <caption webpage="our-story" alt=""/>
-      <caption webpage="our-story" alt=""/>
-      <caption webpage="our-story" alt=""/>
-      <caption webpage="our-story" alt=""/>
-      <caption webpage="our-story" alt=""/>
-      <caption webpage="our-story" alt=""/>
-      <caption webpage="tuition" alt=""/>
-      <caption webpage="tuition" alt=""/>
-      <caption webpage="tuition" alt=""/>
-      <caption webpage="tuition" alt=""/>
-      <caption webpage="tuition" alt=""/>
-      <caption webpage="tuition" alt=""/>
-      <caption webpage="tuition" alt=""/>
-      <caption webpage="tuition" alt=""/>
       <caption webpage="payment-process" alt=""/>
       <caption webpage="payment-process" alt=""/>
       <caption webpage="payment-process" alt=""/>
@@ -221,82 +131,172 @@
       <caption webpage="payment-process" alt=""/>
       <caption webpage="payment-process" alt=""/>
       <caption webpage="payment-process" alt=""/>
+      <caption webpage="our-story" alt=""/>
+      <caption webpage="our-story" alt=""/>
+      <caption webpage="our-story" alt=""/>
+      <caption webpage="our-story" alt=""/>
+      <caption webpage="our-story" alt=""/>
+      <caption webpage="our-story" alt=""/>
+      <caption webpage="our-story" alt=""/>
+      <caption webpage="our-story" alt=""/>
+      <caption webpage="insight" alt=""/>
+      <caption webpage="insight" alt=""/>
+      <caption webpage="insight" alt=""/>
+      <caption webpage="insight" alt=""/>
+      <caption webpage="insight" alt=""/>
+      <caption webpage="insight" alt=""/>
+      <caption webpage="insight" alt=""/>
+      <caption webpage="insight" alt=""/>
+      <caption webpage="outlook" alt=""/>
+      <caption webpage="outlook" alt=""/>
+      <caption webpage="outlook" alt=""/>
+      <caption webpage="outlook" alt=""/>
+      <caption webpage="outlook" alt=""/>
+      <caption webpage="outlook" alt=""/>
+      <caption webpage="outlook" alt=""/>
+      <caption webpage="outlook" alt=""/>
+      <caption webpage="musicianship" alt=""/>
+      <caption webpage="musicianship" alt=""/>
+      <caption webpage="musicianship" alt=""/>
+      <caption webpage="musicianship" alt=""/>
+      <caption webpage="musicianship" alt=""/>
+      <caption webpage="musicianship" alt=""/>
+      <caption webpage="musicianship" alt=""/>
+      <caption webpage="musicianship" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="mission" alt=""/>
+      <caption webpage="mission" alt=""/>
+      <caption webpage="mission" alt=""/>
+      <caption webpage="mission" alt=""/>
+      <caption webpage="mission" alt=""/>
+      <caption webpage="mission" alt=""/>
+      <caption webpage="mission" alt=""/>
+      <caption webpage="mission" alt=""/>
+      <caption webpage="faculty" alt=""/>
+      <caption webpage="faculty" alt=""/>
+      <caption webpage="faculty" alt=""/>
+      <caption webpage="faculty" alt=""/>
+      <caption webpage="faculty" alt=""/>
+      <caption webpage="faculty" alt=""/>
+      <caption webpage="faculty" alt=""/>
+      <caption webpage="faculty" alt=""/>
+      <caption webpage="support-us" alt=""/>
+      <caption webpage="support-us" alt=""/>
+      <caption webpage="support-us" alt=""/>
+      <caption webpage="support-us" alt=""/>
+      <caption webpage="support-us" alt=""/>
+      <caption webpage="support-us" alt=""/>
+      <caption webpage="support-us" alt=""/>
+      <caption webpage="support-us" alt=""/>
+      <caption webpage="tuition" alt=""/>
+      <caption webpage="tuition" alt=""/>
+      <caption webpage="tuition" alt=""/>
+      <caption webpage="tuition" alt=""/>
+      <caption webpage="tuition" alt=""/>
+      <caption webpage="tuition" alt=""/>
+      <caption webpage="tuition" alt=""/>
+      <caption webpage="tuition" alt=""/>
+      <caption webpage="virtual-afs" alt=""/>
+      <caption webpage="virtual-afs" alt=""/>
+      <caption webpage="virtual-afs" alt=""/>
+      <caption webpage="virtual-afs" alt=""/>
+      <caption webpage="virtual-afs" alt=""/>
+      <caption webpage="virtual-afs" alt=""/>
+      <caption webpage="virtual-afs" alt=""/>
+      <caption webpage="virtual-afs" alt=""/>
+      <caption webpage="virtual-afs" alt=""/>
+      <caption webpage="virtual-afs" alt=""/>
+      <caption webpage="to-apply" alt=""/>
+      <caption webpage="to-apply" alt=""/>
+      <caption webpage="to-apply" alt=""/>
+      <caption webpage="to-apply" alt=""/>
+      <caption webpage="to-apply" alt=""/>
+      <caption webpage="to-apply" alt=""/>
+      <caption webpage="to-apply" alt=""/>
+      <caption webpage="to-apply" alt=""/>
     </file>
     <file name="hampng.png" crc="265455049" seo="true" ref="index:insight:tuition:mission:sight-reading:musicianship:service:outlook:location:support-us:faculty:at-first-sight:our-story:to-apply:p.portal:photos-2021">
-      <caption webpage="photos-2021" alt=""/>
-      <caption webpage="photos-2021" alt=""/>
-      <caption webpage="outlook" alt=""/>
-      <caption webpage="outlook" alt=""/>
       <caption webpage="location" alt=""/>
       <caption webpage="location" alt=""/>
-      <caption webpage="our-story" alt=""/>
-      <caption webpage="our-story" alt=""/>
+      <caption webpage="service" alt=""/>
+      <caption webpage="service" alt=""/>
+      <caption webpage="virtual-afs" alt=""/>
+      <caption webpage="virtual-afs" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="to-apply" alt=""/>
-      <caption webpage="to-apply" alt=""/>
-      <caption webpage="at-first-sight" alt=""/>
-      <caption webpage="at-first-sight" alt=""/>
       <caption webpage="faculty" alt=""/>
       <caption webpage="faculty" alt=""/>
-      <caption webpage="p.portal" alt=""/>
-      <caption webpage="p.portal" alt=""/>
-      <caption webpage="tuition" alt=""/>
-      <caption webpage="tuition" alt=""/>
+      <caption webpage="at-first-sight" alt=""/>
+      <caption webpage="at-first-sight" alt=""/>
       <caption webpage="payment-process" alt=""/>
-      <caption webpage="musicianship" alt=""/>
-      <caption webpage="musicianship" alt=""/>
-      <caption webpage="virtual-afs" alt=""/>
-      <caption webpage="virtual-afs" alt=""/>
-      <caption webpage="support-us" alt=""/>
-      <caption webpage="support-us" alt=""/>
-      <caption webpage="insight" alt=""/>
-      <caption webpage="insight" alt=""/>
-      <caption webpage="mission" alt=""/>
-      <caption webpage="mission" alt=""/>
+      <caption webpage="to-apply" alt=""/>
+      <caption webpage="to-apply" alt=""/>
       <caption webpage="sight-reading" alt=""/>
       <caption webpage="sight-reading" alt=""/>
-      <caption webpage="service" alt=""/>
-      <caption webpage="service" alt=""/>
+      <caption webpage="p.portal" alt=""/>
+      <caption webpage="p.portal" alt=""/>
+      <caption webpage="our-story" alt=""/>
+      <caption webpage="our-story" alt=""/>
+      <caption webpage="photos-2021" alt=""/>
+      <caption webpage="photos-2021" alt=""/>
+      <caption webpage="insight" alt=""/>
+      <caption webpage="insight" alt=""/>
+      <caption webpage="outlook" alt=""/>
+      <caption webpage="outlook" alt=""/>
+      <caption webpage="mission" alt=""/>
+      <caption webpage="mission" alt=""/>
+      <caption webpage="support-us" alt=""/>
+      <caption webpage="support-us" alt=""/>
+      <caption webpage="tuition" alt=""/>
+      <caption webpage="tuition" alt=""/>
+      <caption webpage="musicianship" alt=""/>
+      <caption webpage="musicianship" alt=""/>
       <caption webpage="photos-2019" alt=""/>
       <caption webpage="photos-2019" alt=""/>
     </file>
     <file name="title1.jpg" crc="350599840" seo="true" ref="index:insight:tuition:mission:sight-reading:musicianship:service:outlook:location:support-us:faculty:at-first-sight:our-story:to-apply:p.portal:photos-2021">
-      <caption webpage="photos-2021" alt=""/>
-      <caption webpage="photos-2021" alt=""/>
-      <caption webpage="outlook" alt=""/>
-      <caption webpage="outlook" alt=""/>
       <caption webpage="location" alt=""/>
       <caption webpage="location" alt=""/>
-      <caption webpage="our-story" alt=""/>
-      <caption webpage="our-story" alt=""/>
+      <caption webpage="service" alt=""/>
+      <caption webpage="service" alt=""/>
+      <caption webpage="virtual-afs" alt=""/>
+      <caption webpage="virtual-afs" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="to-apply" alt=""/>
-      <caption webpage="to-apply" alt=""/>
-      <caption webpage="at-first-sight" alt=""/>
-      <caption webpage="at-first-sight" alt=""/>
       <caption webpage="faculty" alt=""/>
       <caption webpage="faculty" alt=""/>
-      <caption webpage="p.portal" alt=""/>
-      <caption webpage="p.portal" alt=""/>
-      <caption webpage="tuition" alt=""/>
-      <caption webpage="tuition" alt=""/>
+      <caption webpage="at-first-sight" alt=""/>
+      <caption webpage="at-first-sight" alt=""/>
       <caption webpage="payment-process" alt=""/>
-      <caption webpage="musicianship" alt=""/>
-      <caption webpage="musicianship" alt=""/>
-      <caption webpage="virtual-afs" alt=""/>
-      <caption webpage="virtual-afs" alt=""/>
-      <caption webpage="support-us" alt=""/>
-      <caption webpage="support-us" alt=""/>
-      <caption webpage="insight" alt=""/>
-      <caption webpage="insight" alt=""/>
-      <caption webpage="mission" alt=""/>
-      <caption webpage="mission" alt=""/>
+      <caption webpage="to-apply" alt=""/>
+      <caption webpage="to-apply" alt=""/>
       <caption webpage="sight-reading" alt=""/>
       <caption webpage="sight-reading" alt=""/>
-      <caption webpage="service" alt=""/>
-      <caption webpage="service" alt=""/>
+      <caption webpage="p.portal" alt=""/>
+      <caption webpage="p.portal" alt=""/>
+      <caption webpage="our-story" alt=""/>
+      <caption webpage="our-story" alt=""/>
+      <caption webpage="photos-2021" alt=""/>
+      <caption webpage="photos-2021" alt=""/>
+      <caption webpage="insight" alt=""/>
+      <caption webpage="insight" alt=""/>
+      <caption webpage="outlook" alt=""/>
+      <caption webpage="outlook" alt=""/>
+      <caption webpage="mission" alt=""/>
+      <caption webpage="mission" alt=""/>
+      <caption webpage="support-us" alt=""/>
+      <caption webpage="support-us" alt=""/>
+      <caption webpage="tuition" alt=""/>
+      <caption webpage="tuition" alt=""/>
+      <caption webpage="musicianship" alt=""/>
+      <caption webpage="musicianship" alt=""/>
       <caption webpage="photos-2019" alt=""/>
       <caption webpage="photos-2019" alt=""/>
     </file>
@@ -327,31 +327,31 @@
       <caption webpage="sight-reading" alt=""/>
       <caption webpage="sight-reading" alt=""/>
       <caption webpage="sight-reading" alt=""/>
-      <caption webpage="faculty" alt=""/>
-      <caption webpage="faculty" alt=""/>
-      <caption webpage="faculty" alt=""/>
-      <caption webpage="faculty" alt=""/>
-      <caption webpage="location" alt=""/>
-      <caption webpage="location" alt=""/>
-      <caption webpage="location" alt=""/>
-      <caption webpage="location" alt=""/>
-      <caption webpage="insight" alt=""/>
-      <caption webpage="insight" alt=""/>
-      <caption webpage="insight" alt=""/>
-      <caption webpage="insight" alt=""/>
-      <caption webpage="mission" alt=""/>
-      <caption webpage="mission" alt=""/>
-      <caption webpage="mission" alt=""/>
-      <caption webpage="mission" alt=""/>
       <caption webpage="service" alt=""/>
       <caption webpage="service" alt=""/>
       <caption webpage="service" alt=""/>
       <caption webpage="service" alt=""/>
-      <caption webpage="musicianship" alt=""/>
-      <caption webpage="musicianship" alt=""/>
-      <caption webpage="musicianship" alt=""/>
-      <caption webpage="musicianship" alt=""/>
       <caption webpage="our-story" alt=""/>
+      <caption webpage="location" alt=""/>
+      <caption webpage="location" alt=""/>
+      <caption webpage="location" alt=""/>
+      <caption webpage="location" alt=""/>
+      <caption webpage="musicianship" alt=""/>
+      <caption webpage="musicianship" alt=""/>
+      <caption webpage="musicianship" alt=""/>
+      <caption webpage="musicianship" alt=""/>
+      <caption webpage="mission" alt=""/>
+      <caption webpage="mission" alt=""/>
+      <caption webpage="mission" alt=""/>
+      <caption webpage="mission" alt=""/>
+      <caption webpage="faculty" alt=""/>
+      <caption webpage="faculty" alt=""/>
+      <caption webpage="faculty" alt=""/>
+      <caption webpage="faculty" alt=""/>
+      <caption webpage="insight" alt=""/>
+      <caption webpage="insight" alt=""/>
+      <caption webpage="insight" alt=""/>
+      <caption webpage="insight" alt=""/>
       <caption webpage="tuition" alt=""/>
       <caption webpage="tuition" alt=""/>
     </file>
@@ -644,30 +644,30 @@
       <caption webpage="to-apply" alt=""/>
     </file>
     <file name="arrowmenuright.png" crc="41086373" ref="index:faculty:insight:tuition:support-us:outlook:musicianship">
-      <caption webpage="virtual-afs" alt=""/>
-      <caption webpage="virtual-afs" alt=""/>
-      <caption webpage="outlook" alt=""/>
-      <caption webpage="outlook" alt=""/>
-      <caption webpage="support-us" alt=""/>
-      <caption webpage="support-us" alt=""/>
-      <caption webpage="insight" alt=""/>
-      <caption webpage="insight" alt=""/>
-      <caption webpage="mission" alt=""/>
-      <caption webpage="mission" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="to-apply" alt=""/>
-      <caption webpage="to-apply" alt=""/>
-      <caption webpage="musicianship" alt=""/>
-      <caption webpage="musicianship" alt=""/>
-      <caption webpage="faculty" alt=""/>
-      <caption webpage="faculty" alt=""/>
-      <caption webpage="our-story" alt=""/>
-      <caption webpage="our-story" alt=""/>
-      <caption webpage="tuition" alt=""/>
-      <caption webpage="tuition" alt=""/>
       <caption webpage="payment-process" alt=""/>
       <caption webpage="payment-process" alt=""/>
+      <caption webpage="our-story" alt=""/>
+      <caption webpage="our-story" alt=""/>
+      <caption webpage="insight" alt=""/>
+      <caption webpage="insight" alt=""/>
+      <caption webpage="outlook" alt=""/>
+      <caption webpage="outlook" alt=""/>
+      <caption webpage="musicianship" alt=""/>
+      <caption webpage="musicianship" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="mission" alt=""/>
+      <caption webpage="mission" alt=""/>
+      <caption webpage="faculty" alt=""/>
+      <caption webpage="faculty" alt=""/>
+      <caption webpage="support-us" alt=""/>
+      <caption webpage="support-us" alt=""/>
+      <caption webpage="tuition" alt=""/>
+      <caption webpage="tuition" alt=""/>
+      <caption webpage="virtual-afs" alt=""/>
+      <caption webpage="virtual-afs" alt=""/>
+      <caption webpage="to-apply" alt=""/>
+      <caption webpage="to-apply" alt=""/>
     </file>
     <file name="imglaurie-crop-u1363584.png" crc="431941780" seo="true" ref="faculty">
       <caption webpage="faculty" alt=""/>
@@ -678,7 +678,7 @@
     <file name="findusonfacebook-crop-u1957032.jpg" crc="4147032018" seo="true" ref="tuition">
       <caption webpage="tuition" alt=""/>
     </file>
-    <file name="background.jpg" crc="170549179" seo="true" ref="support-us:insight">
+    <file name="background.jpg" crc="170549179" seo="true" ref="support-us">
       <caption webpage="insight" alt=""/>
       <caption webpage="insight" alt=""/>
       <caption webpage="insight" alt=""/>
@@ -722,36 +722,36 @@
       <caption webpage="index" alt=""/>
     </file>
     <file name="date.png" crc="247353230" seo="true" ref="index:insight:mission:sight-reading:musicianship:service:outlook:location:support-us:faculty:at-first-sight:photos-2021:our-story:to-apply:p.portal:tuition">
-      <caption webpage="photos-2021" alt=""/>
-      <caption webpage="photos-2021" alt=""/>
-      <caption webpage="outlook" alt=""/>
-      <caption webpage="outlook" alt=""/>
       <caption webpage="location" alt=""/>
       <caption webpage="location" alt=""/>
-      <caption webpage="our-story" alt=""/>
-      <caption webpage="our-story" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="to-apply" alt=""/>
-      <caption webpage="to-apply" alt=""/>
-      <caption webpage="at-first-sight" alt=""/>
-      <caption webpage="at-first-sight" alt=""/>
-      <caption webpage="faculty" alt=""/>
-      <caption webpage="faculty" alt=""/>
-      <caption webpage="p.portal" alt=""/>
-      <caption webpage="p.portal" alt=""/>
-      <caption webpage="tuition" alt=""/>
-      <caption webpage="tuition" alt=""/>
       <caption webpage="service" alt=""/>
       <caption webpage="service" alt=""/>
-      <caption webpage="support-us" alt=""/>
-      <caption webpage="support-us" alt=""/>
-      <caption webpage="insight" alt=""/>
-      <caption webpage="insight" alt=""/>
-      <caption webpage="mission" alt=""/>
-      <caption webpage="mission" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="faculty" alt=""/>
+      <caption webpage="faculty" alt=""/>
+      <caption webpage="at-first-sight" alt=""/>
+      <caption webpage="at-first-sight" alt=""/>
+      <caption webpage="to-apply" alt=""/>
+      <caption webpage="to-apply" alt=""/>
       <caption webpage="sight-reading" alt=""/>
       <caption webpage="sight-reading" alt=""/>
+      <caption webpage="p.portal" alt=""/>
+      <caption webpage="p.portal" alt=""/>
+      <caption webpage="our-story" alt=""/>
+      <caption webpage="our-story" alt=""/>
+      <caption webpage="photos-2021" alt=""/>
+      <caption webpage="photos-2021" alt=""/>
+      <caption webpage="insight" alt=""/>
+      <caption webpage="insight" alt=""/>
+      <caption webpage="outlook" alt=""/>
+      <caption webpage="outlook" alt=""/>
+      <caption webpage="mission" alt=""/>
+      <caption webpage="mission" alt=""/>
+      <caption webpage="support-us" alt=""/>
+      <caption webpage="support-us" alt=""/>
+      <caption webpage="tuition" alt=""/>
+      <caption webpage="tuition" alt=""/>
       <caption webpage="musicianship" alt=""/>
       <caption webpage="musicianship" alt=""/>
     </file>
@@ -809,39 +809,39 @@
       <caption webpage="index" alt=""/>
     </file>
     <file name="date2.png" crc="9597970" seo="true" ref="index:insight:mission:sight-reading:musicianship:service:outlook:location:support-us:faculty:at-first-sight:photos-2021:our-story:to-apply:p.portal:tuition">
-      <caption webpage="photos-2021" alt=""/>
-      <caption webpage="outlook" alt=""/>
       <caption webpage="location" alt=""/>
-      <caption webpage="our-story" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="to-apply" alt=""/>
-      <caption webpage="at-first-sight" alt=""/>
-      <caption webpage="faculty" alt=""/>
-      <caption webpage="p.portal" alt=""/>
-      <caption webpage="tuition" alt=""/>
       <caption webpage="service" alt=""/>
-      <caption webpage="support-us" alt=""/>
-      <caption webpage="insight" alt=""/>
-      <caption webpage="mission" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="faculty" alt=""/>
+      <caption webpage="at-first-sight" alt=""/>
+      <caption webpage="to-apply" alt=""/>
       <caption webpage="sight-reading" alt=""/>
+      <caption webpage="p.portal" alt=""/>
+      <caption webpage="our-story" alt=""/>
+      <caption webpage="photos-2021" alt=""/>
+      <caption webpage="insight" alt=""/>
+      <caption webpage="outlook" alt=""/>
+      <caption webpage="mission" alt=""/>
+      <caption webpage="support-us" alt=""/>
+      <caption webpage="tuition" alt=""/>
       <caption webpage="musicianship" alt=""/>
     </file>
     <file name="date3.png" crc="4149104850" seo="true" ref="index:insight:mission:sight-reading:musicianship:service:outlook:location:support-us:faculty:at-first-sight:photos-2021:our-story:to-apply:p.portal:tuition">
-      <caption webpage="photos-2021" alt=""/>
-      <caption webpage="outlook" alt=""/>
       <caption webpage="location" alt=""/>
-      <caption webpage="our-story" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="to-apply" alt=""/>
-      <caption webpage="at-first-sight" alt=""/>
-      <caption webpage="faculty" alt=""/>
-      <caption webpage="p.portal" alt=""/>
-      <caption webpage="tuition" alt=""/>
       <caption webpage="service" alt=""/>
-      <caption webpage="support-us" alt=""/>
-      <caption webpage="insight" alt=""/>
-      <caption webpage="mission" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="faculty" alt=""/>
+      <caption webpage="at-first-sight" alt=""/>
+      <caption webpage="to-apply" alt=""/>
       <caption webpage="sight-reading" alt=""/>
+      <caption webpage="p.portal" alt=""/>
+      <caption webpage="our-story" alt=""/>
+      <caption webpage="photos-2021" alt=""/>
+      <caption webpage="insight" alt=""/>
+      <caption webpage="outlook" alt=""/>
+      <caption webpage="mission" alt=""/>
+      <caption webpage="support-us" alt=""/>
+      <caption webpage="tuition" alt=""/>
       <caption webpage="musicianship" alt=""/>
     </file>
     <file name="insightorchestra.jpg" crc="432547739" seo="true" ref="insight">
@@ -1159,14 +1159,20 @@
       <caption webpage="photos-2021" alt=""/>
       <caption webpage="photos-2021" alt=""/>
     </file>
+    <file name="insight3.jpg" crc="3824996655" seo="true" ref="insight">
+      <caption webpage="insight" alt=""/>
+      <caption webpage="insight" alt=""/>
+      <caption webpage="insight" alt=""/>
+      <caption webpage="insight" alt=""/>
+    </file>
   </folder>
   <file name="index.html" crc="4034122788" seo="true" mt="1635962216640" redirect="true"/>
-  <file name="insight.html" crc="3857490956" seo="true" mt="1636055966734" redirect="true"/>
+  <file name="insight.html" crc="251201827" seo="true" mt="1649705383805" redirect="true"/>
   <file name="tuition.html" crc="179180918" seo="true" mt="1645546600877" redirect="true"/>
   <file name="mission.html" crc="4051407999" seo="true" mt="1635962216640" redirect="true"/>
   <file name="sight-reading.html" crc="3966659625" seo="true" mt="1635962216640" redirect="true"/>
   <file name="musicianship.html" crc="4291986938" seo="true" mt="1649704640226" redirect="true"/>
-  <file name="service.html" crc="211061487" seo="true" mt="1635962216640" redirect="true"/>
+  <file name="service.html" crc="3828472513" seo="true" mt="1649705323225" redirect="true"/>
   <file name="outlook.html" crc="177125076" seo="true" mt="1636301951602" redirect="true"/>
   <file name="location.html" crc="3934093553" seo="true" mt="1635963234797" redirect="true"/>
   <file name="support-us.html" crc="3872239952" seo="true" mt="1636301843936" redirect="true"/>
