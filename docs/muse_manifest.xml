@@ -1,8 +1,8 @@
-<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="atfirstsight.org" resolutions="1x" timestamp="1658949860247">
+<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="atfirstsight.org" resolutions="1x" timestamp="1658950319499">
   <folder name="css">
     <file name="site_global.css" crc="4200273672"/>
-    <file name="master_a-master.css" crc="166074090" ref="faculty:support-us:to-apply:insight:index:mission:outlook:location:our-story:musicianship:sight-reading:at-first-sight:service:tuition:p.portal:photos-2021"/>
-    <file name="nomq_preview_master_a-master.css" crc="469716112" ref="faculty:support-us:to-apply:insight:index:mission:outlook:location:our-story:musicianship:sight-reading:at-first-sight:service:tuition:p.portal:photos-2021"/>
+    <file name="master_a-master.css" crc="90712104" ref="faculty:support-us:to-apply:insight:index:mission:outlook:location:our-story:musicianship:sight-reading:at-first-sight:service:tuition:p.portal:photos-2021"/>
+    <file name="nomq_preview_master_a-master.css" crc="469350136" ref="faculty:support-us:to-apply:insight:index:mission:outlook:location:our-story:musicianship:sight-reading:at-first-sight:service:tuition:p.portal:photos-2021"/>
     <file name="faculty.css" crc="3810057669" ref="faculty"/>
     <file name="nomq_faculty.css" crc="3816116634" ref="faculty"/>
     <file name="support-us.css" crc="4161219452" ref="support-us"/>
@@ -67,7 +67,7 @@
     <file name="require.js" crc="4177726516" ref="index:insight:tuition:mission:sight-reading:musicianship:service:outlook:location:support-us:faculty:at-first-sight:our-story:to-apply:p.portal:photos-2021"/>
   </folder>
   <folder name="images">
-    <file name="favicon.ico" crc="93987138" ref="index"/>
+    <file name="favicon.ico" crc="93987138" ref="index:faculty"/>
     <file name="blank.gif" crc="4208392903" ref="index:insight:tuition:mission:sight-reading:musicianship:service:outlook:location:support-us:faculty:at-first-sight:our-story:to-apply:p.portal:photos-2021"/>
     <file name="loading.gif" crc="3815509949" ref="index"/>
     <file name="atfirstsight1.png" crc="427668302" seo="true" ref="index">
@@ -85,8 +85,8 @@
     <file name="banner.jpg" crc="4264741238" seo="true" ref="index:insight:tuition:mission:sight-reading:musicianship:service:outlook:location:support-us:faculty:at-first-sight:our-story:to-apply:p.portal:photos-2021">
       <caption webpage="p.portal" alt=""/>
       <caption webpage="p.portal" alt=""/>
-      <caption webpage="mission" alt=""/>
-      <caption webpage="mission" alt=""/>
+      <caption webpage="insight" alt=""/>
+      <caption webpage="insight" alt=""/>
       <caption webpage="musicianship" alt=""/>
       <caption webpage="musicianship" alt=""/>
       <caption webpage="location" alt=""/>
@@ -103,34 +103,34 @@
       <caption webpage="photos-2019" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="virtual-afs" alt=""/>
-      <caption webpage="virtual-afs" alt=""/>
       <caption webpage="payment-process" alt=""/>
       <caption webpage="payment-process" alt=""/>
-      <caption webpage="photos-2021" alt=""/>
-      <caption webpage="photos-2021" alt=""/>
+      <caption webpage="virtual-afs" alt=""/>
+      <caption webpage="virtual-afs" alt=""/>
       <caption webpage="at-first-sight" alt=""/>
       <caption webpage="at-first-sight" alt=""/>
       <caption webpage="outlook" alt=""/>
       <caption webpage="outlook" alt=""/>
-      <caption webpage="insight" alt=""/>
-      <caption webpage="insight" alt=""/>
+      <caption webpage="mission" alt=""/>
+      <caption webpage="mission" alt=""/>
       <caption webpage="tuition" alt=""/>
       <caption webpage="tuition" alt=""/>
+      <caption webpage="photos-2021" alt=""/>
+      <caption webpage="photos-2021" alt=""/>
       <caption webpage="support-us" alt=""/>
       <caption webpage="support-us" alt=""/>
       <caption webpage="sight-reading" alt=""/>
       <caption webpage="sight-reading" alt=""/>
     </file>
-    <file name="arrowmenudown.png" crc="262559161" ref="index">
-      <caption webpage="faculty" alt=""/>
-      <caption webpage="faculty" alt=""/>
-      <caption webpage="faculty" alt=""/>
-      <caption webpage="faculty" alt=""/>
-      <caption webpage="faculty" alt=""/>
-      <caption webpage="faculty" alt=""/>
-      <caption webpage="faculty" alt=""/>
-      <caption webpage="faculty" alt=""/>
+    <file name="arrowmenudown.png" crc="262559161" ref="index:faculty">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
       <caption webpage="insight" alt=""/>
       <caption webpage="insight" alt=""/>
       <caption webpage="insight" alt=""/>
@@ -139,14 +139,14 @@
       <caption webpage="insight" alt=""/>
       <caption webpage="insight" alt=""/>
       <caption webpage="insight" alt=""/>
-      <caption webpage="payment-process" alt=""/>
-      <caption webpage="payment-process" alt=""/>
-      <caption webpage="payment-process" alt=""/>
-      <caption webpage="payment-process" alt=""/>
-      <caption webpage="payment-process" alt=""/>
-      <caption webpage="payment-process" alt=""/>
-      <caption webpage="payment-process" alt=""/>
-      <caption webpage="payment-process" alt=""/>
+      <caption webpage="tuition" alt=""/>
+      <caption webpage="tuition" alt=""/>
+      <caption webpage="tuition" alt=""/>
+      <caption webpage="tuition" alt=""/>
+      <caption webpage="tuition" alt=""/>
+      <caption webpage="tuition" alt=""/>
+      <caption webpage="tuition" alt=""/>
+      <caption webpage="tuition" alt=""/>
       <caption webpage="musicianship" alt=""/>
       <caption webpage="musicianship" alt=""/>
       <caption webpage="musicianship" alt=""/>
@@ -155,16 +155,14 @@
       <caption webpage="musicianship" alt=""/>
       <caption webpage="musicianship" alt=""/>
       <caption webpage="musicianship" alt=""/>
-      <caption webpage="virtual-afs" alt=""/>
-      <caption webpage="virtual-afs" alt=""/>
-      <caption webpage="virtual-afs" alt=""/>
-      <caption webpage="virtual-afs" alt=""/>
-      <caption webpage="virtual-afs" alt=""/>
-      <caption webpage="virtual-afs" alt=""/>
-      <caption webpage="virtual-afs" alt=""/>
-      <caption webpage="virtual-afs" alt=""/>
-      <caption webpage="virtual-afs" alt=""/>
-      <caption webpage="virtual-afs" alt=""/>
+      <caption webpage="to-apply" alt=""/>
+      <caption webpage="to-apply" alt=""/>
+      <caption webpage="to-apply" alt=""/>
+      <caption webpage="to-apply" alt=""/>
+      <caption webpage="to-apply" alt=""/>
+      <caption webpage="to-apply" alt=""/>
+      <caption webpage="to-apply" alt=""/>
+      <caption webpage="to-apply" alt=""/>
       <caption webpage="our-story" alt=""/>
       <caption webpage="our-story" alt=""/>
       <caption webpage="our-story" alt=""/>
@@ -181,14 +179,22 @@
       <caption webpage="outlook" alt=""/>
       <caption webpage="outlook" alt=""/>
       <caption webpage="outlook" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
+      <caption webpage="faculty" alt=""/>
+      <caption webpage="faculty" alt=""/>
+      <caption webpage="faculty" alt=""/>
+      <caption webpage="faculty" alt=""/>
+      <caption webpage="faculty" alt=""/>
+      <caption webpage="faculty" alt=""/>
+      <caption webpage="faculty" alt=""/>
+      <caption webpage="faculty" alt=""/>
+      <caption webpage="payment-process" alt=""/>
+      <caption webpage="payment-process" alt=""/>
+      <caption webpage="payment-process" alt=""/>
+      <caption webpage="payment-process" alt=""/>
+      <caption webpage="payment-process" alt=""/>
+      <caption webpage="payment-process" alt=""/>
+      <caption webpage="payment-process" alt=""/>
+      <caption webpage="payment-process" alt=""/>
       <caption webpage="mission" alt=""/>
       <caption webpage="mission" alt=""/>
       <caption webpage="mission" alt=""/>
@@ -197,14 +203,16 @@
       <caption webpage="mission" alt=""/>
       <caption webpage="mission" alt=""/>
       <caption webpage="mission" alt=""/>
-      <caption webpage="tuition" alt=""/>
-      <caption webpage="tuition" alt=""/>
-      <caption webpage="tuition" alt=""/>
-      <caption webpage="tuition" alt=""/>
-      <caption webpage="tuition" alt=""/>
-      <caption webpage="tuition" alt=""/>
-      <caption webpage="tuition" alt=""/>
-      <caption webpage="tuition" alt=""/>
+      <caption webpage="virtual-afs" alt=""/>
+      <caption webpage="virtual-afs" alt=""/>
+      <caption webpage="virtual-afs" alt=""/>
+      <caption webpage="virtual-afs" alt=""/>
+      <caption webpage="virtual-afs" alt=""/>
+      <caption webpage="virtual-afs" alt=""/>
+      <caption webpage="virtual-afs" alt=""/>
+      <caption webpage="virtual-afs" alt=""/>
+      <caption webpage="virtual-afs" alt=""/>
+      <caption webpage="virtual-afs" alt=""/>
       <caption webpage="support-us" alt=""/>
       <caption webpage="support-us" alt=""/>
       <caption webpage="support-us" alt=""/>
@@ -213,20 +221,12 @@
       <caption webpage="support-us" alt=""/>
       <caption webpage="support-us" alt=""/>
       <caption webpage="support-us" alt=""/>
-      <caption webpage="to-apply" alt=""/>
-      <caption webpage="to-apply" alt=""/>
-      <caption webpage="to-apply" alt=""/>
-      <caption webpage="to-apply" alt=""/>
-      <caption webpage="to-apply" alt=""/>
-      <caption webpage="to-apply" alt=""/>
-      <caption webpage="to-apply" alt=""/>
-      <caption webpage="to-apply" alt=""/>
     </file>
     <file name="hampng.png" crc="265455049" seo="true" ref="index:insight:tuition:mission:sight-reading:musicianship:service:outlook:location:support-us:faculty:at-first-sight:our-story:to-apply:p.portal:photos-2021">
       <caption webpage="p.portal" alt=""/>
       <caption webpage="p.portal" alt=""/>
-      <caption webpage="mission" alt=""/>
-      <caption webpage="mission" alt=""/>
+      <caption webpage="insight" alt=""/>
+      <caption webpage="insight" alt=""/>
       <caption webpage="musicianship" alt=""/>
       <caption webpage="musicianship" alt=""/>
       <caption webpage="location" alt=""/>
@@ -243,19 +243,19 @@
       <caption webpage="photos-2019" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="virtual-afs" alt=""/>
-      <caption webpage="virtual-afs" alt=""/>
       <caption webpage="payment-process" alt=""/>
-      <caption webpage="photos-2021" alt=""/>
-      <caption webpage="photos-2021" alt=""/>
+      <caption webpage="virtual-afs" alt=""/>
+      <caption webpage="virtual-afs" alt=""/>
       <caption webpage="at-first-sight" alt=""/>
       <caption webpage="at-first-sight" alt=""/>
       <caption webpage="outlook" alt=""/>
       <caption webpage="outlook" alt=""/>
-      <caption webpage="insight" alt=""/>
-      <caption webpage="insight" alt=""/>
+      <caption webpage="mission" alt=""/>
+      <caption webpage="mission" alt=""/>
       <caption webpage="tuition" alt=""/>
       <caption webpage="tuition" alt=""/>
+      <caption webpage="photos-2021" alt=""/>
+      <caption webpage="photos-2021" alt=""/>
       <caption webpage="support-us" alt=""/>
       <caption webpage="support-us" alt=""/>
       <caption webpage="sight-reading" alt=""/>
@@ -264,8 +264,8 @@
     <file name="title1.jpg" crc="350599840" seo="true" ref="index:insight:tuition:mission:sight-reading:musicianship:service:outlook:location:support-us:faculty:at-first-sight:our-story:to-apply:p.portal:photos-2021">
       <caption webpage="p.portal" alt=""/>
       <caption webpage="p.portal" alt=""/>
-      <caption webpage="mission" alt=""/>
-      <caption webpage="mission" alt=""/>
+      <caption webpage="insight" alt=""/>
+      <caption webpage="insight" alt=""/>
       <caption webpage="musicianship" alt=""/>
       <caption webpage="musicianship" alt=""/>
       <caption webpage="location" alt=""/>
@@ -282,19 +282,19 @@
       <caption webpage="photos-2019" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="virtual-afs" alt=""/>
-      <caption webpage="virtual-afs" alt=""/>
       <caption webpage="payment-process" alt=""/>
-      <caption webpage="photos-2021" alt=""/>
-      <caption webpage="photos-2021" alt=""/>
+      <caption webpage="virtual-afs" alt=""/>
+      <caption webpage="virtual-afs" alt=""/>
       <caption webpage="at-first-sight" alt=""/>
       <caption webpage="at-first-sight" alt=""/>
       <caption webpage="outlook" alt=""/>
       <caption webpage="outlook" alt=""/>
-      <caption webpage="insight" alt=""/>
-      <caption webpage="insight" alt=""/>
+      <caption webpage="mission" alt=""/>
+      <caption webpage="mission" alt=""/>
       <caption webpage="tuition" alt=""/>
       <caption webpage="tuition" alt=""/>
+      <caption webpage="photos-2021" alt=""/>
+      <caption webpage="photos-2021" alt=""/>
       <caption webpage="support-us" alt=""/>
       <caption webpage="support-us" alt=""/>
       <caption webpage="sight-reading" alt=""/>
@@ -327,8 +327,10 @@
       <caption webpage="insight" alt=""/>
       <caption webpage="insight" alt=""/>
       <caption webpage="insight" alt=""/>
-      <caption webpage="tuition" alt=""/>
-      <caption webpage="tuition" alt=""/>
+      <caption webpage="service" alt=""/>
+      <caption webpage="service" alt=""/>
+      <caption webpage="service" alt=""/>
+      <caption webpage="service" alt=""/>
       <caption webpage="musicianship" alt=""/>
       <caption webpage="musicianship" alt=""/>
       <caption webpage="musicianship" alt=""/>
@@ -346,10 +348,8 @@
       <caption webpage="mission" alt=""/>
       <caption webpage="mission" alt=""/>
       <caption webpage="mission" alt=""/>
-      <caption webpage="service" alt=""/>
-      <caption webpage="service" alt=""/>
-      <caption webpage="service" alt=""/>
-      <caption webpage="service" alt=""/>
+      <caption webpage="tuition" alt=""/>
+      <caption webpage="tuition" alt=""/>
       <caption webpage="sight-reading" alt=""/>
       <caption webpage="sight-reading" alt=""/>
       <caption webpage="sight-reading" alt=""/>
@@ -637,31 +637,31 @@
     <file name="imglocation225-crop-u146995.jpg" crc="4286785584" seo="true" ref="to-apply">
       <caption webpage="to-apply" alt=""/>
     </file>
-    <file name="arrowmenuright.png" crc="41086373" ref="index">
-      <caption webpage="faculty" alt=""/>
-      <caption webpage="faculty" alt=""/>
+    <file name="arrowmenuright.png" crc="41086373" ref="index:faculty">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
       <caption webpage="insight" alt=""/>
       <caption webpage="insight" alt=""/>
-      <caption webpage="payment-process" alt=""/>
-      <caption webpage="payment-process" alt=""/>
+      <caption webpage="tuition" alt=""/>
+      <caption webpage="tuition" alt=""/>
       <caption webpage="musicianship" alt=""/>
       <caption webpage="musicianship" alt=""/>
-      <caption webpage="virtual-afs" alt=""/>
-      <caption webpage="virtual-afs" alt=""/>
+      <caption webpage="to-apply" alt=""/>
+      <caption webpage="to-apply" alt=""/>
       <caption webpage="our-story" alt=""/>
       <caption webpage="our-story" alt=""/>
       <caption webpage="outlook" alt=""/>
       <caption webpage="outlook" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
+      <caption webpage="faculty" alt=""/>
+      <caption webpage="faculty" alt=""/>
+      <caption webpage="payment-process" alt=""/>
+      <caption webpage="payment-process" alt=""/>
       <caption webpage="mission" alt=""/>
       <caption webpage="mission" alt=""/>
-      <caption webpage="tuition" alt=""/>
-      <caption webpage="tuition" alt=""/>
+      <caption webpage="virtual-afs" alt=""/>
+      <caption webpage="virtual-afs" alt=""/>
       <caption webpage="support-us" alt=""/>
       <caption webpage="support-us" alt=""/>
-      <caption webpage="to-apply" alt=""/>
-      <caption webpage="to-apply" alt=""/>
     </file>
     <file name="imglaurie-crop-u1363584.png" crc="431941780" seo="true" ref="faculty">
       <caption webpage="faculty" alt=""/>
@@ -1169,7 +1169,7 @@
   <file name="outlook.html" crc="4253183538" seo="true" mt="1658949108943" redirect="true"/>
   <file name="location.html" crc="503862214" seo="true" mt="1658949108943" redirect="true"/>
   <file name="support-us.html" crc="4096773398" seo="true" mt="1658949108943" redirect="true"/>
-  <file name="faculty.html" crc="4062902608" seo="true" mt="1658949108943" redirect="true"/>
+  <file name="faculty.html" crc="4176190527" seo="true" mt="1658950259320" redirect="true"/>
   <file name="at-first-sight.html" crc="157448896" seo="true" mt="1658949108943" redirect="true"/>
   <file name="our-story.html" crc="4278616566" seo="true" mt="1658949108943" redirect="true"/>
   <file name="to-apply.html" crc="264150860" seo="true" mt="1658949108943" redirect="true"/>
